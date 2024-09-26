@@ -3,3 +3,5 @@ theme:
   name: material
   favicon: 'img/favicon.ico'
   logo: assets/logo.png
+  features:
+    - navigation.instant
