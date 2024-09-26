@@ -116,6 +116,6 @@ $$
 ### Concept of Proportion
 > A proportion is an **equality** of at least two **ratios** or two **rates**
 #### Example
-$$\frac{4}{8} = \frac{1}{2}$$ **(equality of two ratios)**$$ 
-$$\frac{8 eggs}{2 Cups of flour} = \frac{4 eggs}{1 cup of flour} **(Equality of two rates)**
+$$\frac{4}{8} = \frac{1}{2}$$ **(equality of two ratios)**
+$$\frac{8 eggs}{2 Cups of flour} = \frac{4 eggs}{1 cup of flour}$$ **(Equality of two rates)**
 
