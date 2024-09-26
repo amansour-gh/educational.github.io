@@ -160,7 +160,7 @@ $$
 
 6 × 8 = 48 <span style="color:green"> Means</span>  
 
-product of <span style="color:red"> Extremes</span><span style="color:yellow"> \neq </span> product of <span style="color:green"> Means</span>  
+product of <span style="color:red"> Extremes</span><span style="color:yellow"> $\neq$ </span> product of <span style="color:green"> Means</span>  
 **these ratio do not represent a proportion**  
 
 2. $$\frac{8}{10}, \frac{12}{15}  
