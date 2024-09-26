@@ -1247,22 +1247,23 @@ $$  </p>
 $$X = \frac{240}{4} = 60 $$  </p>
 <hr />
 <h3 id="graphical-representation-of-proportion">Graphical Representation of proportion</h3>
-<p><vegachart style='width: 100%'  class="vegalite">{
+<p>{
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A simple bar chart with embedded data.",
-  "data": {
-    "values": [
-      {"a": "A", "b": 28}, {"a": "B", "b": 55}, {"a": "C", "b": 43},
-      {"a": "D", "b": 91}, {"a": "E", "b": 81}, {"a": "F", "b": 53},
-      {"a": "G", "b": 19}, {"a": "H", "b": 87}, {"a": "I", "b": 52}
-    ]
+  "description": "Stock prices of 5 Tech Companies over Time.",
+  "data": {"url": "data/stocks.csv"},
+  "mark": {
+    "type": "line",
+    "point": {
+      "filled": false,
+      "fill": "white"
+    }
   },
-  "mark": "bar",
   "encoding": {
-    "x": {"field": "a", "type": "nominal", "axis": {"labelAngle": 0}},
-    "y": {"field": "b", "type": "quantitative"}
+    "x": {"timeUnit": "year", "field": "date"},
+    "y": {"aggregate":"mean", "field": "price", "type": "quantitative"},
+    "color": {"field": "symbol", "type": "nominal"}
   }
-}</vegachart></p>
+}</p>
 
 
 
@@ -1323,9 +1324,5 @@ $$X = \frac{240}{4} = 60 $$  </p>
         <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
       
     
-  
-        <script>
-        var mkdocs_chart_plugin = {'data_path': '', 'use_data_path': 'True', 'vega_theme': 'default', 'vega_theme_dark': 'dark', 'vega_renderer': 'svg', 'vega_width': 'container', 'fallback_width': '800', 'path_to_homepage': '../../..'}
-        </script>
-        </body>
+  </body>
 </html>
