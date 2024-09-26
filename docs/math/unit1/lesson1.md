@@ -1,3 +1,10 @@
-# lesson One " Proportion "
+# Unit One : Numbers and operations on them
+## lesson One " Proportion "
+### Ratio
+A ratio is a method of comparing two quantity of the same kind 
+> expresses the relationship between a part and a part, a part and a whole, or a whole and a part
 
-$$ x = \frac{9}{3} = 3 $$
+#### Forms
+1. $$ \frac{a}{b} $$
+2. $$ a : b $$
+3. $$ a to b $$
