@@ -10,7 +10,7 @@ theme:
 nav:
   - Home: index.md
   - Math:
-      - Unit 1 Numbers and operations on them: math/unit1/unit1.md
+      - Unit 1 Numbers and operations on them:
           - Lesson 1 Proportion: math/unit1/lesson1.md
 
 extra_javascript:
