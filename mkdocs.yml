@@ -13,3 +13,5 @@ nav:
       - Unit 1:
           - Lesson 1: math/unit1/lesson1.md
 
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML
