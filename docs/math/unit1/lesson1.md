@@ -154,16 +154,18 @@ $$
 \frac{8}{10}, \frac{12}{15}
 $$
 ##### Solution
-`if the product of the extremes equals the products of means, then this pairs of ratios represent a proportio`
+`if the product of the extremes equals the products of means, then this pairs of ratios represent a proportio`  
 1. $$\frac{3}{8}, \frac{12}{15}$$
 3 × 10 = 30 <span style="color:red"> Extremes</span>  
 
 6 × 8 = 48 <span style="color:green"> Means</span>  
 
-product of <span style="color:red"> Extremes</span><span style="color:yellow"> $\neq$ </span> product of <span style="color:green"> Means</span>  
+product of <span style="color:red"> Extremes</span><span style="color:blue">  
+$$\neq$$  
+</span> product of <span style="color:green"> Means</span>  
 **these ratio do not represent a proportion**  
 
-2. $$\frac{8}{10}, \frac{12}{15}  
+2. $$\frac{8}{10}, \frac{12}{15}$$  
 
 8 X 15 = 120  
 
