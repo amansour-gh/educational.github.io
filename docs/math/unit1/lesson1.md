@@ -8,3 +8,16 @@ A ratio is a method of comparing two quantity of the same kind
 1. $$ \frac{a}{b} $$
 2. $$ a : b $$
 3. $$ a to b $$
+
+#### Example 1 
+your class in school has 50 students, 30 boys, and 20 girls. Write the ratio between the following 
+1. the number of boys to the total number in class
+2. the number of girls to the number of boys
+3. the total number of students to the number of girls
+##### Solution
+1. the number of boys to the total number in class
+$$ \frac{30}{50} $$
+2. the number of girls to the number of boys
+$$ \frac{20}{30} $$
+3. the total number of students to the number of girls
+$$ \frac{50}{20} $$
