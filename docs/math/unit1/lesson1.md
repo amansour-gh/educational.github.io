@@ -139,6 +139,16 @@ ___
 
 ### Prperty of Cross Multiplication
 if two ratios are equal, you will find that: Product of <span style="color:red"> Extremes</span> <span style="color:green"> = </span> Product of <span style="color:blue"> Means </span>
-- **if** $$\frac{a}{b}=\frac{c}{d}$$ **then:** a × d = b × c
-#### example 
-$$\frac{3}{4}=\frac{6}{8} **then:** 3 × 8 = 4 × 6 = 24
+> **if** $$\frac{a}{b}=\frac{c}{d}$$ **then:** a × d = b × c
+#### Example 1
+$$\frac{3}{4}=\frac{6}{8}$$ **then:** 3 × 8 = 4 × 6 = 24
+#### Example 2
+Determine which of the following pairs of ratios represents a proportion
+1. 
+$$
+\frac{3}{8}, \frac{6}{10}
+$$
+2. 
+$$
+\frac{8}{10}, \frac{12}{15}
+$$
