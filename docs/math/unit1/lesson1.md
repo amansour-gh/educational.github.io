@@ -44,4 +44,6 @@ $$ \frac{50}{20} $$
 Write the simplest form of the ratio
 1. $$\frac{30}{20}$$
 ##### Solution
-1. $$ \frac{30÷10}{20÷10} $$
+1. $$ \frac{30÷10}{20÷10}=\frac{3}{2} $$
+### Rate
+
