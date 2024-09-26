@@ -144,6 +144,7 @@ if two ratios are equal, you will find that: Product of <span style="color:red">
 $$\frac{3}{4}=\frac{6}{8}$$ **then:** 3 × 8 = 4 × 6 = 24
 #### Example 2
 Determine which of the following pairs of ratios represents a proportion
+
 1. 
 $$
 \frac{3}{8}, \frac{6}{10}
@@ -152,3 +153,6 @@ $$
 $$
 \frac{8}{10}, \frac{12}{15}
 $$
+##### Solution
+`if the product of the extremes equals the products of means, then this pairs of ratios represent a proportio`
+
