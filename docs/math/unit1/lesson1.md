@@ -39,9 +39,7 @@ $$ \frac{50}{20} $$
 2. if $$\frac{6}{X}=\frac{3}{4}$$, what is the value of X?
     $$ X=\frac{4×6}{3}=\frac{24}{3}=8$$
 #### Simplest form
-<div style="direction: rtl; text-align: right;">
-تكرار عمليه القسمه على البسط والمقام على نفس الرقم لغاية لما يبه مينفعش اقسم البسط والمقام تاني على نفس الرقم
-</div>
+>تكرار عمليه القسمه على البسط والمقام على نفس الرقم لغاية لما يبه مينفعش اقسم البسط والمقام تاني على نفس الرقم
  
 ##### Example 3
 Write the simplest form of the ratio

@@ -1,7 +1,6 @@
 # Welcome SAIF
-
-## صباح الخيرات يا سيف انا عملت الموقع ده علشان نراجه منه انا وانت ربنا يقويك 
-
+## this site for you to review your lessons 
+<span style="font-size: 40px; color:red;">i LOVE you </span>
 
 
 
