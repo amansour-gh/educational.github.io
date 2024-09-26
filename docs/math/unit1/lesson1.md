@@ -1,5 +1,5 @@
 # Unit One : Numbers and operations on them
-## lesson One " Proportion "
+## lesson One : Proportion
 ### Ratio
 A ratio is a method of comparing two quantity of the same kind 
 > expresses the relationship between a part and a part, a part and a whole, or a whole and a part
@@ -7,9 +7,9 @@ A ratio is a method of comparing two quantity of the same kind
 #### Forms
 1. $$ \frac{a}{b} $$
 2. $$ a : b $$
-3. a to b
+3.                a to b
 
-#### Example 1 
+##### Example 1 
 your class in school has 50 students, 30 boys, and 20 girls. Write the ratio between the following 
 1. the number of boys to the total number in class
 2. the number of girls to the number of boys
@@ -21,3 +21,5 @@ $$ \frac{30}{50} $$
 $$ \frac{20}{30} $$
 3. the total number of students to the number of girls
 $$ \frac{50}{20} $$
+#### Equivalent Ratio
+> ببساطه يا حج سيف لو ضربت البسط والمقام في نفس الرقم او قسمت البسط والمقام على نفس الرقم يبقه كده جبت ال Equivalent ratio
