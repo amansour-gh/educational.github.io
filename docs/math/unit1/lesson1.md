@@ -173,9 +173,14 @@ product of <span style="color:red"> Extremes </span><span style="color:blue"> �
 **these ratios represent a proportion**  
 #### Example 3  
 solve each of the following proportion  
-1. $\frac{4}{12} = \frac{20}{X}$  
+1.  
+$$
+\frac{4}{12} = \frac{20}{X}
+$$  
 ##### Solution  
 4 × X = 20 × 12  
 4 × X = 240  
-X = $\frac{240}{4} = 60 $  
+$$\frac{240}{4} = 60 $$  
+X = 60  
+
 
