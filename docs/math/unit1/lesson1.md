@@ -160,19 +160,22 @@ $$
 
 6 × 8 = 48 <span style="color:green"> Means</span>  
 
-product of <span style="color:red"> Extremes</span><span style="color:blue">≠</span> product of <span style="color:green"> Means</span>  
+product of <span style="color:red"> Extremes </span><span style="color:blue"> ≠ </span> product of <span style="color:green"> Means</span>  
 **these ratio do not represent a proportion**  
 
 2. $$\frac{8}{10}, \frac{12}{15}$$  
 
-8 X 15 = 120  
+8 × 15 = 120  
 
-12 X 10 = 120  
+12 × 10 = 120  
 
 
 **these ratios represent a proportion**  
-
-
-
-
+#### Example 3  
+solve each of the following proportion  
+1. $\frac{4}{12} = \frac{20}{X}$  
+##### Solution  
+4 × X = 20 × 12  
+4 × X = 240  
+$X = \frac{240}{4} = 60 $  
 
