@@ -1,7 +1,27 @@
 site_name: BaRhElMaNhG
 theme:
-  name: material
+  name: 'material'
   favicon: 'img/favicon.ico'
   logo: assets/logo.png
   features:
     - navigation.sections
+
+
+nav:
+  - Home: index.md
+  - Math:
+      - Unit 1:
+          - Lesson 1: math/unit1/lesson1.md
+          - Lesson 2: math/unit1/lesson2.md
+      - Unit 2:
+          - Lesson 1: math/unit2/lesson1.md
+          - Lesson 2: math/unit2/lesson2.md
+      - Unit 3:
+          - Lesson 1: math/unit3/lesson1.md
+          - Lesson 2: math/unit3/lesson2.md
+      - Unit 4:
+          - Lesson 1: math/unit4/lesson1.md
+          - Lesson 2: math/unit4/lesson2.md
+      - Unit 5:
+          - Lesson 1: math/unit5/lesson1.md
+          - Lesson 2: math/unit5/lesson2.md
