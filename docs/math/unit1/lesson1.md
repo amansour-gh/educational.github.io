@@ -112,7 +112,7 @@ $$
 
 
 **the two ratio is not equivalent**
-***
+___
 ### Concept of Proportion
 > A proportion is an **equality** of at least two **ratios** or two **rates**
 #### Example
@@ -120,15 +120,25 @@ $$
 $$\frac{4}{8} = \frac{1}{2}$$ 
 **(Equality of two rates)**
 $$\frac{8 eggs}{2 Cups of flour} = \frac{4 eggs}{1 cup of flour}$$ 
-
+___
 ### Writing Proportion
-if the quantities a, b, c, and d are proportional quantities, then
+if the quantities a, b, c, and d are proportional quantities,and **vice versa** then
 $$
 \frac{a}{b} = \frac{c}{d}
 $$
 > **a**, and **d** named **Extremes** 
 > **b**, and **c** named **Means**
 #### بالعربي
+يعني لما يقولك ان الارقام دي proportion يعني نسب ده معناه ان 
 البسط في الكسر الاول والمقام بتاع الكسر التاني اسمهم الاطراف 
-المقام في الكسر الاول والبسط بتاع الكسر التاني اسمهم الوسائط 
-<span style="background-color: red"> a</span> : <span style="background-color: green"> b : c </span> : <span style="background-color: red">d</span>
+المقام في الكسر الاول والبسط بتاع الكسر التاني اسمهم الوسائط
+ 
+<span style="color: red"> a</span> : <span style="color: green"> b : c </span> : <span style="color: red">d</span>
+
+___
+
+### Prperty of Cross Multiplication
+if two ratios are equal, you will find that: Product of <span style="color:red"> Extremes</span> <span style="color:green"> = </span> Product of <span style="color:blue"> Means </span>
+- **if** $$\frac{a}{b}=\frac{c}{d}$$ **then:** a × d = b × c
+#### example 
+$$\frac{3}{4}=\frac{6}{8} **then:** 3 × 8 = 4 × 6 = 24
