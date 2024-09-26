@@ -6,5 +6,7 @@ We will review together for best achievement
 ___
 ### Lesson One " Test name "
 
-$$ \frac={2}{4} $$
+$$
+x = \frac{9}{3} = 3 
+$$
 
