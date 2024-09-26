@@ -2,3 +2,4 @@ site_name: Educational
 theme:
   name: material
   favicon: 'img/favicon.ico'
+  logo: assets/logo.png
