@@ -72,12 +72,13 @@ $$
 SS
     3. 
 $$
-\frac{48}{40} = \frac{48÷4}{40÷4} = \frac{12}{10} = \frac{12÷2}{10÷2} = \frac{6}{5} 
-SS
+\frac{48}{40} = \frac{48 \div 4}{40 \div 4} = \frac{12}{10} = \frac{12 \div 2}{10 \div 2} = \frac{6}{5} 
+$$
     4. 
 $$
-\frac{50}{75} = \frac{50÷5}{75÷5} = \frac{10}{15} = \frac{10÷5}{15÷5} = \frac{2}{3} 
-SS
+\frac{50}{75} = \frac{50 \div 5}{75 \div 5} = \frac{10}{15} = \frac{10 \div 5}{15 \div 5} = \frac{2}{3} 
+$$
+
 
 2. In one of the training, Ahmed secored **8** goals out of **10** attempts, While Saif scored **3** goals out of **5** attempts. Are the two ratios equivalent?
 ##### Solution
