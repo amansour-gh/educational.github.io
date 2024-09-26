@@ -177,5 +177,5 @@ solve each of the following proportion
 ##### Solution  
 4 × X = 20 × 12  
 4 × X = 240  
-$X = \frac{240}{4} = 60 $  
+X = $\frac{240}{4} = 60 $  
 
