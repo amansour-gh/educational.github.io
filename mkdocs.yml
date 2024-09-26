@@ -1,2 +1,7 @@
 site_name: Educational
+nav:
 
+  Home: index.md # الصفحة الرئيسية
+    Math: # قسم الرياضيات
+      Lesson 1: math/lesson1.md
+      Lesson 2: math/lesson2.md
