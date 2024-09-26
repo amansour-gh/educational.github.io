@@ -11,17 +11,5 @@ nav:
   - Home: index.md
   - Math:
       - Unit 1:
-          - Lesson 1: /unit1/lesson1.md
-          - Lesson 2: /unit1/lesson2.md
-      - Unit 2:
-          - Lesson 1: /unit2/lesson1.md
-          - Lesson 2: /unit2/lesson2.md
-      - Unit 3:
-          - Lesson 1: /unit3/lesson1.md
-          - Lesson 2: /unit3/lesson2.md
-      - Unit 4:
-          - Lesson 1: /unit4/lesson1.md
-          - Lesson 2: /unit4/lesson2.md
-      - Unit 5:
-          - Lesson 1: /unit5/lesson1.md
-          - Lesson 2: /unit5/lesson2.md
+          - Lesson 1: math/unit1/lesson1.md
+
