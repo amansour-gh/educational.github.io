@@ -183,7 +183,7 @@ $$
 $$X = \frac{240}{4} = 60 $$  
 ---  
 ### Graphical Representation of proportion  
-[عرض الرسم البياني التفاعلي](interactive_graph.html)  
-<iframe src="interactive_graph.html" width="100%" height="600"></iframe>
+[link](graphs/interactive_graph.html)
+<iframe src="graphs/interactive_graph.html" width="100%" height="600"></iframe>
   
  
