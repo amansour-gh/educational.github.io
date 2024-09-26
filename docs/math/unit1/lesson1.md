@@ -64,18 +64,29 @@ $$
 ##### Solution
     1. 
 $$
-\frac{48}{16} = \frac{48÷8}{16÷8} = \farc{6}{2} = \frac{6÷2}{2÷2} =  \frac{3}{1}=3
+\frac{48}{16} = \frac{48÷8}{16÷8} = \frac{6}{2} = \frac{6÷2}{2÷2} =  \frac{3}{1}=3
 $$
-    2. $$\frac{14}{35} = \frac{14÷7}{35÷7} = \frac{2}{5} SS
-    3. $$\frac{48}{40} = \frac{48÷4}{40÷4}=\frac{12}{10}=\frac{12÷2}{10÷2}=\frac{6}{5}$$
-    4. $$\frac{50}{75}=\frac{50÷5}{75÷5}=\frac{10}{15}=\frac{10÷5}{15÷5}=\frac{2}{3}$$
+    2. 
+$$
+\frac{14}{35} = \frac{14÷7}{35÷7} = \frac{2}{5} 
+SS
+    3. 
+$$\frac{48}{40} = \frac{48÷4}{40÷4}=\frac{12}{10}=\frac{12÷2}{10÷2}=\frac{6}{5}
+$$
+    4. 
+$$\frac{50}{75}=\frac{50÷5}{75÷5}=\frac{10}{15}=\frac{10÷5}{15÷5}=\frac{2}{3}
+$$
 
 2. In one of the training, Ahmed secored **8** goals out of **10** attempts, While Saif scored **3** goals out of **5** attempts. Are the two ratios equivalent?
 ##### Solution
     1. Ahmed Scored ratio
-    $$\frac{8}{10}$$
+$$
+\frac{8}{10}
+$$
     2. Saif Scored ratio
-    $$\frac{3}{5}
+$$
+\frac{3}{5}
+$$
     > علشان نتاكد هما متساويين والا لاه يا سيف لازم نوحد المقامات يعني ممكن نضرب البسط والمقام الصغير في نفس الرقم علشان يوصل للرقم الكبير او نقسم البسط والمقام في الرقم الكبير علشان يوصل للرقم الصغير 
 $$\frac{8÷2}{10÷2}=\frac{4}{5}$$
 **OR**
