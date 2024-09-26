@@ -4,4 +4,4 @@ theme:
   favicon: 'img/favicon.ico'
   logo: assets/logo.png
   features:
-    - navigation.instant
+    - navigation.tabs
