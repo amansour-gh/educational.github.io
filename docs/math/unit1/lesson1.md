@@ -70,11 +70,11 @@ $$
 $$
 \frac{14}{35} = \frac{14÷7}{35÷7} = \frac{2}{5} 
 SS
-    3. 
+ 
 $$
 \frac{48}{40} = \frac{48 \div 4}{40 \div 4} = \frac{12}{10} = \frac{12 \div 2}{10 \div 2} = \frac{6}{5} 
 $$
-    4. 
+ 
 $$
 \frac{50}{75} = \frac{50 \div 5}{75 \div 5} = \frac{10}{15} = \frac{10 \div 5}{15 \div 5} = \frac{2}{3} 
 $$
