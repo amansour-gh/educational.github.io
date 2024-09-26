@@ -7,7 +7,7 @@ A ratio is a method of comparing two quantity of the same kind
 #### Forms
 1. $$ \frac{a}{b} $$
 2. $$ a : b $$
-3. $$ a to b $$
+3. a to b
 
 #### Example 1 
 your class in school has 50 students, 30 boys, and 20 girls. Write the ratio between the following 
