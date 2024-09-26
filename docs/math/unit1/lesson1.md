@@ -36,4 +36,4 @@ $$ \frac{50}{20} $$
     $$
     \frac{16÷8}{24÷8}=\frac{2}{3}
     $$
-2. if $$ \frac{6}{X}=\frac{3}{4}, what is the value of X?
+2. if $$\frac{6}{X}=\frac{3}{4}$$, what is the value of X?
