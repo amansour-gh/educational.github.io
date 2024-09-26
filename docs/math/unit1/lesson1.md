@@ -30,7 +30,7 @@ $$ \frac{50}{20} $$
 1. write two equivalent to $$ \frac{16}{24} $$
     - Multiply:
     $$
-    \frac{16*2}{24*2}=\frac{32}{48}
+    \frac{16×2}{24×2}=\frac{32}{48}
     $$
     - Divide:
     $$
