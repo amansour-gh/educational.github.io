@@ -116,6 +116,19 @@ $$
 ### Concept of Proportion
 > A proportion is an **equality** of at least two **ratios** or two **rates**
 #### Example
-$$\frac{4}{8} = \frac{1}{2}$$ **(equality of two ratios)**
-$$\frac{8 eggs}{2 Cups of flour} = \frac{4 eggs}{1 cup of flour}$$ **(Equality of two rates)**
+**(equality of two ratios)**
+$$\frac{4}{8} = \frac{1}{2}$$ 
+**(Equality of two rates)**
+$$\frac{8 eggs}{2 Cups of flour} = \frac{4 eggs}{1 cup of flour}$$ 
 
+### Writing Proportion
+if the quantities a, b, c, and d are proportional quantities, then
+$$
+\frac{a}{b} = \frac{c}{d}
+$$
+> **a**, and **d** named **Extremes** 
+> **b**, and **c** named **Means**
+#### بالعربي
+البسط في الكسر الاول والمقام بتاع الكسر التاني اسمهم الاطراف 
+المقام في الكسر الاول والبسط بتاع الكسر التاني اسمهم الوسائط 
+<span style="background-color: red"> a</span> : <span style="background-color: green"> b : c </span> : <span style="background-color: red">d</span>
