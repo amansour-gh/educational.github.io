@@ -12,6 +12,6 @@ nav:
   - Math:
       - Unit 1 Numbers and operations on them:
           - Lesson 1 Proportion: math/unit1/lesson1.md
-          - Graph: math/unit1/interactive_graph.html
+          - Graph: /math/unit1/graphs/interactive_graph.html
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML
