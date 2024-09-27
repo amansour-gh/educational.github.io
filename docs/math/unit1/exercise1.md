@@ -109,7 +109,7 @@
     $$  
     **This represent a not proportion**  
     
-    4. 
+    4.
     $$
     \frac{1}{3} and \frac{0.5}{1.5}
     $$  
@@ -121,7 +121,7 @@
     $$  
     **Extremes = Means this represent a proportion**  
     
-    5. 
+    5.
     $$
     \frac{5}{4} and \frac{7.5}{6}
     $$  
@@ -133,7 +133,7 @@
     $$  
     **Extremes = Means this represent a proportion**  
     
-    6. 
+    6.
     $$
     \frac{10}{3} and \frac{40}{12}
     $$  
@@ -144,4 +144,6 @@
     Means = 3 \times 40 = 120  
     $$  
     **Extremes = Means this represent a proportion**  
+3. For each of the following proportion, determine whather the quantities are proportional. **If** the 
+    1.
     
