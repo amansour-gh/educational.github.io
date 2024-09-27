@@ -228,12 +228,22 @@ The two tables below show the distance in kilometere covered by a car. Determine
                 fill: true
             }]
         },
-        options: {
-            scales: {
-                y: {
-                    beginAtZero: true
+            options: {
+                scales: {
+                    x: {
+                        title: {
+                            display: true, // Show title for x-axis
+                            text: 'Time in Hours' // Label for x-axis
+                        }
+                    },
+                    y: {
+                        title: {
+                            display: true, // Show title for y-axis
+                            text: 'Distance in Kilometers' // Label for y-axis
+                        },
+                        beginAtZero: true // Ensures y-axis starts at 0
+                    }
                 }
             }
-        }
-    });
-</script>
+        });
+    </script>
