@@ -76,7 +76,7 @@
     $$
     Means = 4 \times 5 = 20  
     $$  
-    Extremes = Means this represent a proportion  
+    **Extremes = Means this represent a proportion**  
     2.
     $$
     \frac{3}{4} and \frac{6}{9}
@@ -90,7 +90,8 @@
     $$
     Extremes \neq Means 
     $$  
-    **This represent a not proportion**
+    **This represent a not proportion**  
+    
     3.
     $$
     \frac{15}{25} and \frac{30}{60}
@@ -115,7 +116,7 @@
     $$
     Means = 3 \times 0.5 = 1.5  
     $$  
-    Extremes = Means this represent a proportion  
+    **Extremes = Means this represent a proportion**  
     5. 
     $$
     \frac{5}{4} and \frac{7.5}{6}
@@ -126,7 +127,7 @@
     $$
     Means = 4 \times 7.5 = 30  
     $$  
-    Extremes = Means this represent a proportion  
+    **Extremes = Means this represent a proportion**  
     6. 
     $$
     \frac{10}{3} and \frac{40}{12}
@@ -137,5 +138,5 @@
     $$
     Means = 3 \times 40 = 120  
     $$  
-    Extremes = Means this represent a proportion  
+    **Extremes = Means this represent a proportion**  
     
