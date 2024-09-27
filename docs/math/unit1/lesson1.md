@@ -183,12 +183,33 @@ $$
 $$X = \frac{240}{4} = 60 $$  
 ---  
 ### Graphical Representation of proportion  
+- if the plotted point lie on a straight line passing through the origin, then the relationship represents a proportion
+يعني لما احط كل النقط على الرسمه واوصلهم ببعض يوصلوا لنقطه الصفر يبقه كده الارقام دي بتعبر عن proporation  
+#### Example  
+The two tables below show the distance in kilometere covered by a car. Determine graphically the relation between the distance and time, determine whether the distance in kilometers is proportional to the time in hours 
+1. Covered Distances  
+| Time(hours) | Distance (Km) |
+|:-----------:|:------------:|
+| 1     | 70       |
+| 2     | 140       |
+| 3     | 210       |
+| 4     | 280       |  
+2. Covered Distances  
+| Time(hours) | Distance (Km) |
+|:-----------:|:------------:|
+| 1     | 80       |
+| 2     | 100       |
+| 3     | 190       |
+| 4     | 260       |  
+
+##### Solution
+
 <!DOCTYPE html>
 <html lang="ar">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>رسم بياني باستخدام Chart.js</title>
+    <title>The Distance in Kilometer is proportional to the the time in hours</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         body {
@@ -208,7 +229,7 @@ $$X = \frac{240}{4} = 60 $$
 </head>
 <body>
 
-    <h1>رسم بياني خطي باستخدام Chart.js</h1>
+    <h1>The Distance in Kilometer is proportional to the the time in hours</h1>
     <canvas id="myChart" width="400" height="200"></canvas>
 
     <script>
@@ -217,14 +238,14 @@ $$X = \frac{240}{4} = 60 $$
         const myChart = new Chart(ctx, {
             type: 'line', // نوع الرسم البياني (خط)
             data: {
-                labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+                labels: ['0', '1', '2', '2' '4'],
                 datasets: [{
-                    label: '# من الأصوات',
-                    data: [12, 19, 3, 5, 2, 3],
+                    label: '# Time',
+                    data: [0, 70, 140, 210, 280],
                     backgroundColor: 'rgba(75, 192, 192, 0.2)', // لون الخلفية
                     borderColor: 'rgba(75, 192, 192, 1)', // لون الخط
                     borderWidth: 2,
-                    fill: true // ملء المساحة تحت الخط
+                    fill: false // ملء المساحة تحت الخط
                 }]
             },
             options: {
