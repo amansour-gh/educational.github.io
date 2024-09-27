@@ -188,19 +188,23 @@ $$X = \frac{240}{4} = 60 $$
 #### Example  
 The two tables below show the distance in kilometere covered by a car. Determine graphically the relation between the distance and time, determine whether the distance in kilometers is proportional to the time in hours 
 1. Covered Distances  
+
 | Time(hours) | Distance (Km) |
 |:-----------:|:------------:|
 | 1     | 70       |
 | 2     | 140       |
 | 3     | 210       |
 | 4     | 280       |  
-2. Covered Distances  
+
+2. Covered Distances
+
 | Time(hours) | Distance (Km) |
 |:-----------:|:------------:|
 | 1     | 80       |
 | 2     | 100       |
 | 3     | 190       |
 | 4     | 260       |  
+
 
 ##### Solution
 
@@ -245,7 +249,7 @@ The two tables below show the distance in kilometere covered by a car. Determine
                     backgroundColor: 'rgba(75, 192, 192, 0.2)', // لون الخلفية
                     borderColor: 'rgba(75, 192, 192, 1)', // لون الخط
                     borderWidth: 2,
-                    fill: false // ملء المساحة تحت الخط
+                    fill: true // ملء المساحة تحت الخط
                 }]
             },
             options: {
