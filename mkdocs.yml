@@ -14,12 +14,12 @@ nav:
           - Lesson 1 Proportion: math/unit1/lesson1.md
 
 extra_javascript:
-
-  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js
 
 markdown_extensions:
   - pymdownx.arithmatex:
-      inline_math: true
+      generic: true
       tex_inline_wrap: ["$", "$"]
       tex_block_wrap: ["$$", "$$"]
+
 
