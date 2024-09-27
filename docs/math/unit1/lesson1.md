@@ -5,9 +5,9 @@ A ratio is a method of comparing two quantity of the same kind
 > expresses the relationship between a part and a part, a part and a whole, or a whole and a part
 
 #### Forms
-1. $$ \frac{a}{b} $$
-2. $$ a : b $$
-3.                a to b
+1. $ \frac{a}{b} $
+2. a : b 
+3. a to b
 
 ##### Example 1 
 your class in school has 50 students, 30 boys, and 20 girls. Write the ratio between the following 
