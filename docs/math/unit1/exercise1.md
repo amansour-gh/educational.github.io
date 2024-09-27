@@ -55,7 +55,7 @@
     $$  
     > to solve this we can multiply Means 15 \times 12 = 180 then divide 180 for any number like 10 to get answer equal 18 to be as following  
     $$
-    \frac{12}{18} = {10}{15}
+    \frac{12}{18} = \frac{10}{15}
     $$  
     > or we can solve it as the following  
     $$
@@ -70,8 +70,12 @@
     $$
     \frac{2}{5} and \frac{4}{10}
     $$  
+    $$
     Extremes = 2 \times 10 = 20  
+    $$  
+    $$
     Means = 4 \times 5 = 20  
+    $$  
     Extremes = Means this represent a proportion  
     
     
