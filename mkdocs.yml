@@ -19,5 +19,6 @@ extra_javascript:
 markdown_extensions:
   - pymdownx.arithmatex:
       inline_math: true
+      tex_inline_wrap: ["$", "$"]
       tex_block_wrap: ["$$", "$$"]
 
