@@ -38,13 +38,14 @@
     $$
     \frac{12}{X} = \frac{18}{12} 
     $$  
+    $$
     X = \frac{12 \times 12}{18} = \frac{144}{18} = 8
     $$  
     7. 
     $$
     \frac{6}{8} = \frac{X}{Y} 
     $$  
-    علشان نحل المسئله دي ممكن نضرب البسط والمقام في اي رقم او نقسمهم على اي رقم مثلا هنقسم البسط والمقام على 2  
+    we can divide or multiply both terms in the same number to get any equivalent fraction 
     $$
     \frac{6 \div 2}{8 \div 2} = \frac{3}{4}
     $$
