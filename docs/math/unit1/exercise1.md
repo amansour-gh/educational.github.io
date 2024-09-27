@@ -151,8 +151,7 @@
 
 3. For each of the following proportion, determine whether the quantities are proportional. **If** the --- , write the proportion.  
 
-    1.
-    5, 8, 15, 24
+    1. 5, 8, 15, 24
     $$
     Extremes = 5 \times 24 = 120
     $$  
@@ -160,4 +159,34 @@
     Means = 8 \times 15 = 120
     $$  
     Extremes = Means **this is proportinal quantities**  
-    
+
+    2. 7, 8, 14, 15
+    $$
+    Extremes = 7 \times 15 = 105
+    $$  
+    $$
+    Means = 8 \times 14 = 112
+    $$  
+    $$
+    Extremes \neq Means
+    $$  
+    **this is NOT proportinal quantities**  
+    3. 12, 27, 16, 18
+    $$
+    Extremes = 12 \times 18 = 216
+    $$  
+    $$
+    Means = 27 \times 16 = 432
+    $$  
+    $$
+    Extremes \neq Means
+    $$  
+    **this is NOT proportinal quantities**  
+    4. 8, 24, 6, 18
+    $$
+    Extremes = 8 \times 18 = 144
+    $$  
+    $$
+    Means = 24 \times 6 = 144
+    $$  
+    Extremes = Means **this is proportinal quantities**  
