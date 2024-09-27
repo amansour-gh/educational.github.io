@@ -206,7 +206,8 @@ The two tables below show the distance in kilometere covered by a car. Determine
 | 4     | 260       |  
 
 
-##### Solution
+##### Solution  
+1. 
 
 <div>
     <canvas id="myChart" width="400" height="200"></canvas>
@@ -220,7 +221,7 @@ The two tables below show the distance in kilometere covered by a car. Determine
         data: {
             labels: ['0', '1', '2', '3', '4'],
             datasets: [{
-                label: '# Time',
+                label: '# Graph 1',
                 data: [0, 70, 140, 210, 280],
                 backgroundColor: 'rgba(75, 192, 192, 0.2)',
                 borderColor: 'rgba(75, 192, 192, 1)',
@@ -246,4 +247,47 @@ The two tables below show the distance in kilometere covered by a car. Determine
                 }
             }
         });
-    </script>
+    </script>  
+    
+2.   
+<div>
+    <canvas id="myChart" width="400" height="200"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx = document.getElementById('myChart').getContext('2d');
+    const myChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: ['0', '1', '2', '3', '4'],
+            datasets: [{
+                label: '# Graph 2',
+                data: [0, 80, 100, 190, 260],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2,
+                fill: true
+            }]
+        },
+            options: {
+                scales: {
+                    x: {
+                        title: {
+                            display: true, // Show title for x-axis
+                            text: 'Time in Hours' // Label for x-axis
+                        }
+                    },
+                    y: {
+                        title: {
+                            display: true, // Show title for y-axis
+                            text: 'Distance in Kilometers' // Label for y-axis
+                        },
+                        beginAtZero: true // Ensures y-axis starts at 0
+                    }
+                }
+            }
+        });
+    </script>  
+
+
