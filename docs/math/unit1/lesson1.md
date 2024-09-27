@@ -5,8 +5,7 @@ A ratio is a method of comparing two quantity of the same kind
 > expresses the relationship between a part and a part, a part and a whole, or a whole and a part
 
 #### Forms
-1. $$\frac{a}{b}$$
-2. \(\frac{a}{b}\)
+1. $\frac{a}{b}$
 2. a : b 
 3. a to b
 
@@ -186,11 +185,5 @@ $$X = \frac{240}{4} = 60 $$
 ### Graphical Representation of proportion  
 
 
-For example, this is $\sum_{i=0}^n i^2 = \frac{(n^2+\epsilon)(2n+1)}{6\phi}$
-an inline mode) 
-
-And the block mode looks like this (don't forget empty line!)
-
-$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
 
