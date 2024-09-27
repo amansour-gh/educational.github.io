@@ -5,7 +5,7 @@ A ratio is a method of comparing two quantity of the same kind
 > expresses the relationship between a part and a part, a part and a whole, or a whole and a part
 
 #### Forms
-1. $\frac{a}{b}$
+1. $$\frac{a}{b}$$
 2. a : b 
 3. a to b
 
@@ -25,7 +25,7 @@ $$ \frac{50}{20} $$
 > ببساطه يا حج سيف بضرب البسط والمقام في نفس الرقم او قسمت البسط والمقام على نفس الرقم 
 ##### Example 2
 1. write two equivalent to $$ \frac{16}{24} $$
-2. if $$ \frac={6}{X}=\frac{3}{4}, what is the value of X?
+2. if $\frac={6}{X}=\frac{3}{4}$, what is the value of X?
 ##### Solution
 1. write two equivalent to $$ \frac{16}{24} $$
     - Multiply:
