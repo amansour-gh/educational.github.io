@@ -12,6 +12,8 @@ nav:
       - Unit 1 Numbers and operations on them:
           - Lesson 1 Proportion: math/unit1/lesson1.md
 
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js
 
 
 
