@@ -1,6 +1,6 @@
 # Unit One : Numbers and operations on them
 ## exercise One : Proportion
-1. Complete the following:  
+### 1. Complete the following:  
     1.The proportion is <span style="color:green">an equality of at least two ratios or two rates</span>  
     2.If two ratios are equal, then the product of the extremes = <span style="color:green">Means</span>  
     
@@ -66,7 +66,7 @@
     X = 15 \times 3 = 45
     $$  
 
-2. Which of the following represents a proportion:  
+### 2. Which of the following represents a proportion:  
 
     1. 
     $$
@@ -145,6 +145,6 @@
     Means = 3 \times 40 = 120  
     $$  
     **Extremes = Means this represent a proportion**  
-3. For each of the following proportion, determine whether the quantities are proportional. **If** the 
+### 3. For each of the following proportion, determine whether the quantities are proportional. **If** the 
     1.
     
