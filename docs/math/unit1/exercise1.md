@@ -5,6 +5,6 @@
     2. If two ratios are equal, then the product of the extremes = <span style="color:green">Means</span>
     3. 
     $$
-    \frac{....}{15} = \frac{3}{5}
+    \frac{X}{15} = \frac{3}{5}
     $$
     
