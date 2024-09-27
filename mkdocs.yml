@@ -16,10 +16,4 @@ nav:
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js
 
-markdown_extensions:
-  - pymdownx.arithmatex:
-      generic: true
-      tex_inline_wrap: ["$", "$"]
-      tex_block_wrap: ["$$", "$$"]
-
 
