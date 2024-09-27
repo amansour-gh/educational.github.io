@@ -148,14 +148,16 @@
     $$  
     **Extremes = Means this represent a proportion**  
 ### Question 3  
-3. For each of the following proportion, determine whether the quantities are proportional. **If** the --- , write the proportion.    
-    1. 5, 8, 15, 24
+
+3. For each of the following proportion, determine whether the quantities are proportional. **If** the --- , write the proportion.  
+
+    1.
+    5, 8, 15, 24
     $$
     Extremes = 5 \times 24 = 120
     $$  
     $$
     Means = 8 \times 15 = 120
     $$  
-    Extremes = Means **this is proportinal quantities**
+    Extremes = Means **this is proportinal quantities**  
     
-    2. 
