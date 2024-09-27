@@ -1,24 +1,27 @@
 site_name: BaRhElMaNhG
+
 theme:
   name: 'material'
   favicon: 'img/favicon.ico'
   logo: assets/logo.png
   features:
-    - navigation.sections
+    - navigation.sections  # This enables sectioned navigation
 
 nav:
   - Home: index.md
   - Math:
-      - Unit 1 Numbers and operations on them:
+      - Unit 1 Numbers and Operations on Them:  # Updated the title for better readability
           - Lesson 1 Proportion: math/unit1/lesson1.md
 
 extra_javascript:
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - assets/js/mathjax-config.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js  # CDN for MathJax
+  - assets/js/mathjax-config.js  # Custom MathJax configuration
 
 markdown_extensions:
   - pymdownx.arithmatex:
       inline_math: true
-      tex_inline_wrap: ["$", "$"]
-      tex_block_wrap: ["$$", "$$"]
+      tex_inline_wrap: ["$", "$"]  # Wrap for inline math
+      tex_block_wrap: ["$$", "$$"]  # Wrap for block math
+  - pymdownx.superfences  # Recommended to enhance code block handling
+  - pymdownx.highlight  # For better syntax highlighting
 
