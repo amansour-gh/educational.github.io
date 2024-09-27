@@ -13,7 +13,11 @@ nav:
           - Lesson 1 Proportion: math/unit1/lesson1.md
 
 extra_javascript:
-  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - assets/js/mathjax-config.js
 
-
+markdown_extensions:
+  - pymdownx.arithmatex:
+      inline_math: true
+      tex_block_wrap: ["$$", "$$"]
 
