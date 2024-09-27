@@ -1370,62 +1370,35 @@ $$X = \frac{240}{4} = 60 $$  </p>
 </tbody>
 </table>
 <h5 id="solution_7">Solution</h5>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Distance in Kilometer is proportional to the the time in hours</title>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        canvas {
-            background-color: #fff;
-            border: 1px solid #ccc;
-        }
-    </style>
-</head>
-<body>
-
-    <h1>The Distance in Kilometer is proportional to the the time in hours</h1>
+<div>
     <canvas id="myChart" width="400" height="200"></canvas>
+</div>
 
-    <script>
-        // تأكد من أن الكود التالي يأتي بعد تضمين Chart.js
-        const ctx = document.getElementById('myChart').getContext('2d');
-        const myChart = new Chart(ctx, {
-            type: 'line', // نوع الرسم البياني (خط)
-            data: {
-                labels: ['0', '1', '2', '2' '4'],
-                datasets: [{
-                    label: '# Time',
-                    data: [0, 70, 140, 210, 280],
-                    backgroundColor: 'rgba(75, 192, 192, 0.2)', // لون الخلفية
-                    borderColor: 'rgba(75, 192, 192, 1)', // لون الخط
-                    borderWidth: 2,
-                    fill: true // ملء المساحة تحت الخط
-                }]
-            },
-            options: {
-                scales: {
-                    y: {
-                        beginAtZero: true
-                    }
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx = document.getElementById('myChart').getContext('2d');
+    const myChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: ['0', '1', '2', '3', '4'],
+            datasets: [{
+                label: '# Time',
+                data: [0, 70, 140, 210, 280],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2,
+                fill: true
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
                 }
             }
-        });
-    </script>
-
-</body>
-</html>
+        }
+    });
+</script>
 
 
 
@@ -1480,6 +1453,8 @@ $$X = \frac{240}{4} = 60 $$  </p>
         <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
         <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+      
+        <script src="../../../attr_list"></script>
       
     
   </body>
