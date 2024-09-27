@@ -1,4 +1,4 @@
 mkdocs==1.6.1
 mkdocs-material==8.5.9
 pymdown-extensions==9.7
-markdown-katex==20210930
+
