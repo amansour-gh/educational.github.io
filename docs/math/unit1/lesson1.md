@@ -221,7 +221,7 @@ The two tables below show the distance in kilometere covered by a car. Determine
         data: {
             labels: ['0', '1', '2', '3', '4'],
             datasets: [{
-                label: '# Graph 1',
+                label: '# Proportional',
                 data: [0, 70, 140, 210, 280],
                 backgroundColor: 'rgba(75, 192, 192, 0.2)',
                 borderColor: 'rgba(75, 192, 192, 1)',
@@ -262,7 +262,7 @@ The two tables below show the distance in kilometere covered by a car. Determine
         data: {
             labels: ['0', '1', '2', '3', '4'],
             datasets: [{
-                label: '# Graph 2',
+                label: '# Is not Proportional',
                 data: [0, 80, 100, 190, 260],
                 backgroundColor: 'rgba(75, 192, 192, 0.2)',
                 borderColor: 'rgba(75, 192, 192, 1)',
