@@ -64,7 +64,7 @@
     $$
     X = 15 \times 3 = 45
     $$  
-# ***
+
 2. Which of the following represents a proportion:  
     1. 
     $$
@@ -88,9 +88,9 @@
     Means = 4 \times 6 = 24  
     $$  
     $$
-    Extremes \neq Means this represent a not proportion
+    Extremes \neq Means 
     $$  
-      
+    **This represent a not proportion**
     3.
     $$
     \frac{15}{25} and \frac{30}{60}
@@ -102,8 +102,9 @@
     Means = 25 \times 30 = 750  
     $$  
     $$
-    Extremes \neq Means this represent a not proportion
+    Extremes \neq Means 
     $$  
+    **This represent a not proportion**
     4. 
     $$
     \frac{1}{3} and \frac{0.5}{1.5}
