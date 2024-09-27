@@ -53,11 +53,11 @@
     $$
     \frac{12}{X} = \frac{Y}{15}
     $$  
-    > to solve this we can multiply Means 15 \times 12 = 180 then divide 180 for any number like 10 to get answer equal 18 to be as following  
+    to solve this we can multiply Means 15 \times 12 = 180 then divide 180 for any number like 10 to get answer equal 18 to be as following  
     $$
     \frac{12}{18} = \frac{10}{15}
     $$  
-    > or we can solve it as the following  
+    or we can solve it as the following  
     $$
     Y = 12 \div 3 = 4
     $$  
@@ -77,5 +77,59 @@
     Means = 4 \times 5 = 20  
     $$  
     Extremes = Means this represent a proportion  
-    
+    2.
+    $$
+    \frac{3}{4} and \frac{6}{9}
+    $$  
+    $$
+    Extremes = 3 \times 9 = 27  
+    $$  
+    $$
+    Means = 4 \times 6 = 24  
+    $$  
+    Extremes \neq Means this represent a not proportion  
+    3.
+    $$
+    \frac{15}{25} and \frac{30}{60}
+    $$  
+    $$
+    Extremes = 15 \times 60 = 900  
+    $$  
+    $$
+    Means = 25 \times 30 = 750  
+    $$  
+    Extremes \neq Means this represent a not proportion  
+    4. 
+    $$
+    \frac{1}{3} and \frac{0.5}{1.5}
+    $$  
+    $$
+    Extremes = 1 \times 1.5 = 1.5  
+    $$  
+    $$
+    Means = 3 \times 0.5 = 1.5  
+    $$  
+    Extremes = Means this represent a proportion  
+    5. 
+    $$
+    \frac{5}{4} and \frac{7.5}{6}
+    $$  
+    $$
+    Extremes = 5 \times 6 = 30  
+    $$  
+    $$
+    Means = 4 \times 7.5 = 30  
+    $$  
+    Extremes = Means this represent a proportion  
+    6. 
+    $$
+    \frac{10}{3} and \frac{40}{12}
+    $$  
+    $$
+    Extremes = 10 \times 12 = 120  
+    $$  
+    $$
+    Means = 3 \times 40 = 120  
+    $$  
+    Extremes = Means this represent a proportion  
     
