@@ -183,6 +183,8 @@ $$
 $$X = \frac{240}{4} = 60 $$  
 ---  
 ### Graphical Representation of proportion  
+# أسعار الأسهم لشركات التكنولوجيا
+
 <div id="vis"></div>
 
 <script type="text/javascript">
