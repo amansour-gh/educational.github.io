@@ -210,12 +210,12 @@ The two tables below show the distance in kilometere covered by a car. Determine
 1. 
 
 <div>
-    <canvas id="myChart" width="400" height="200"></canvas>
+    <canvas id="myChart1" width="400" height="200"></canvas>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-    const ctx = document.getElementById('myChart').getContext('2d');
+    const ctx = document.getElementById('myChart1').getContext('2d');
     const myChart = new Chart(ctx, {
         type: 'line',
         data: {
@@ -251,12 +251,12 @@ The two tables below show the distance in kilometere covered by a car. Determine
     
 2.   
 <div>
-    <canvas id="myChart" width="400" height="200"></canvas>
+    <canvas id="myChart2" width="400" height="200"></canvas>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-    const ctx = document.getElementById('myChart').getContext('2d');
+    const ctx = document.getElementById('myChart2').getContext('2d');
     const myChart = new Chart(ctx, {
         type: 'line',
         data: {
