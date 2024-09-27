@@ -48,5 +48,30 @@
     we can divide or multiply both terms in the same number to get any equivalent fraction 
     $$
     \frac{6 \div 2}{8 \div 2} = \frac{3}{4}
+    $$  
+    8. 
     $$
+    \frac{12}{X} = \frac{Y}{15}
+    $$  
+    > to solve this we can multiply Means 15 \times 12 = 180 then divide 180 for any number like 10 to get answer equal 18 to be as following  
+    $$
+    \frac{12}{18} = {10}{15}
+    $$  
+    > or we can solve it as the following  
+    $$
+    Y = 12 \div 3 = 4
+    $$  
+    $$
+    X = 15 \times 3 = 45
+    $$  
+***
+2. Which of the following represents a proportion:  
+    1. 
+    $$
+    \frac{2}{5} and \frac{4}{10}
+    $$  
+    Extremes = 2 \times 10 = 20  
+    Means = 4 \times 5 = 20  
+    Extremes = Means this represent a proportion  
+    
     
