@@ -215,8 +215,8 @@ The two tables below show the distance in kilometere covered by a car. Determine
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-    const ctx = document.getElementById('myChart1').getContext('2d');
-    const myChart = new Chart(ctx, {
+    const ctx1 = document.getElementById('myChart1').getContext('2d');
+    const myChart1 = new Chart(ctx1, {
         type: 'line',
         data: {
             labels: ['0', '1', '2', '3', '4'],
@@ -229,35 +229,35 @@ The two tables below show the distance in kilometere covered by a car. Determine
                 fill: true
             }]
         },
-            options: {
-                scales: {
-                    x: {
-                        title: {
-                            display: true, // Show title for x-axis
-                            text: 'Time in Hours' // Label for x-axis
-                        }
-                    },
-                    y: {
-                        title: {
-                            display: true, // Show title for y-axis
-                            text: 'Distance in Kilometers' // Label for y-axis
-                        },
-                        beginAtZero: true // Ensures y-axis starts at 0
+        options: {
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Time in Hours'
                     }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Distance in Kilometers'
+                    },
+                    beginAtZero: true
                 }
             }
-        });
-    </script>  
-    
+        }
+    });
+</script>  
+
 2.   
+
 <div>
     <canvas id="myChart2" width="400" height="200"></canvas>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-    const ctx = document.getElementById('myChart2').getContext('2d');
-    const myChart = new Chart(ctx, {
+    const ctx2 = document.getElementById('myChart2').getContext('2d');
+    const myChart2 = new Chart(ctx2, {
         type: 'line',
         data: {
             labels: ['0', '1', '2', '3', '4'],
@@ -270,24 +270,24 @@ The two tables below show the distance in kilometere covered by a car. Determine
                 fill: true
             }]
         },
-            options: {
-                scales: {
-                    x: {
-                        title: {
-                            display: true, // Show title for x-axis
-                            text: 'Time in Hours' // Label for x-axis
-                        }
-                    },
-                    y: {
-                        title: {
-                            display: true, // Show title for y-axis
-                            text: 'Distance in Kilometers' // Label for y-axis
-                        },
-                        beginAtZero: true // Ensures y-axis starts at 0
+        options: {
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Time in Hours'
                     }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Distance in Kilometers'
+                    },
+                    beginAtZero: true
                 }
             }
-        });
-    </script>  
+        }
+    });
+</script>
 
 
