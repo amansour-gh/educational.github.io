@@ -15,6 +15,6 @@ nav:
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js  # CDN for MathJax
-  - /assets/jsassets/js/mathjax-config.js  # Custom MathJax configuration
+
 
 
