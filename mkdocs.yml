@@ -15,13 +15,6 @@ nav:
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js  # CDN for MathJax
-  - assets/js/mathjax-config.js  # Custom MathJax configuration
+  - /assets/jsassets/js/mathjax-config.js  # Custom MathJax configuration
 
-markdown_extensions:
-  - pymdownx.arithmatex:
-      inline_math: true
-      tex_inline_wrap: ["$", "$"]  # Wrap for inline math
-      tex_block_wrap: ["$$", "$$"]  # Wrap for block math
-  - pymdownx.superfences  # Recommended to enhance code block handling
-  - pymdownx.highlight  # For better syntax highlighting
 
