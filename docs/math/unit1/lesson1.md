@@ -6,6 +6,7 @@ A ratio is a method of comparing two quantity of the same kind
 
 #### Forms
 1. $$\frac{a}{b}$$
+2. $E = mc^2$
 2. a : b 
 3. a to b
 
