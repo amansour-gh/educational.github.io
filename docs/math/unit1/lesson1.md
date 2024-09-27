@@ -207,7 +207,8 @@ The two tables below show the distance in kilometere covered by a car. Determine
 
 
 ##### Solution  
-1. 
+1. Table one  
+
 
 <div>
     <canvas id="myChart1" width="400" height="200"></canvas>
@@ -249,7 +250,8 @@ The two tables below show the distance in kilometere covered by a car. Determine
     });
 </script>  
 
-2.   
+2. Table 2  
+
 
 <div>
     <canvas id="myChart2" width="400" height="200"></canvas>
