@@ -1,9 +1,9 @@
 # Unit One : Numbers and operations on them
 ## exercise One : Proportion
 1. Complete the following:  
-    1. The proportion is <span style="color:green">an equality of at least two ratios or two rates</span>  
-    2. If two ratios are equal, then the product of the extremes = <span style="color:green">Means</span>
-    3. 
+    1.The proportion is <span style="color:green">an equality of at least two ratios or two rates</span>  
+    2.If two ratios are equal, then the product of the extremes = <span style="color:green">Means</span>
+    3.
     $$
     \frac{X}{15} = \frac{3}{5}
     $$  
@@ -15,7 +15,7 @@
     $$
     X = \frac{45}{5} = 9
     $$  
-    4. 
+    4.
     $$
     \frac{20}{25} = \frac{36}{X}
     $$  
@@ -27,21 +27,21 @@
     $$
     X = \frac{900}{20} = 45
     $$  
-    5. 
+    5.
     $$
     \frac{48}{72} = \frac{X}{15}
     $$  
     $$
     X = \frac{15 \times 48}{72} = \frac{720}{72} = 10
     $$  
-    6. 
+    6.
     $$
     \frac{12}{X} = \frac{18}{12} 
     $$  
     $$
     X = \frac{12 \times 12}{18} = \frac{144}{18} = 8
     $$  
-    7. 
+    7.
     $$
     \frac{6}{8} = \frac{X}{Y} 
     $$  
@@ -49,7 +49,7 @@
     $$
     \frac{6 \div 2}{8 \div 2} = \frac{3}{4}
     $$  
-    8. 
+    8.
     $$
     \frac{12}{X} = \frac{Y}{15}
     $$  
