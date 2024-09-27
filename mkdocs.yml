@@ -6,7 +6,6 @@ theme:
   features:
     - navigation.sections
 
-
 nav:
   - Home: index.md
   - Math:
@@ -15,5 +14,9 @@ nav:
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      inline_math: true
 
 
