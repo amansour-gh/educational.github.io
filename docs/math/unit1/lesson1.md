@@ -183,31 +183,46 @@ $$
 $$X = \frac{240}{4} = 60 $$  
 ---  
 ### Graphical Representation of proportion  
-# أسعار الأسهم لشركات التكنولوجيا
+# رسم بياني باستخدام Chart.js
 
-<div id="vis"></div>
+<canvas id="myChart" width="400" height="200"></canvas>
 
-<script type="text/javascript">
-    const spec = {
-      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-      "description": "Stock prices of 5 Tech Companies over Time.",
-      "data": {"url": "data/stocks.csv"},
-      "mark": {
-        "type": "line",
-        "point": {
-          "filled": false,
-          "fill": "white"
+<script>
+    // تأكد من أن الكود التالي يأتي بعد تضمين Chart.js في mkdocs.yml
+    const ctx = document.getElementById('myChart').getContext('2d');
+    const myChart = new Chart(ctx, {
+        type: 'bar', // نوع الرسم البياني (مثل 'line', 'bar', 'pie', إلخ)
+        data: {
+            labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+            datasets: [{
+                label: '# من الأصوات',
+                data: [12, 19, 3, 5, 2, 3],
+                backgroundColor: [
+                    'rgba(255, 99, 132, 0.2)',
+                    'rgba(54, 162, 235, 0.2)',
+                    'rgba(255, 206, 86, 0.2)',
+                    'rgba(75, 192, 192, 0.2)',
+                    'rgba(153, 102, 255, 0.2)',
+                    'rgba(255, 159, 64, 0.2)'
+                ],
+                borderColor: [
+                    'rgba(255, 99, 132, 1)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
         }
-      },
-      "encoding": {
-        "x": {"timeUnit": "year", "field": "date"},
-        "y": {"aggregate": "mean", "field": "price", "type": "quantitative"},
-        "color": {"field": "symbol", "type": "nominal"}
-      }
-    };
-
-    vegaEmbed('#vis', spec).then(function(result) {
-        // تحقق من النتيجة إذا كنت بحاجة إلى معلومات إضافية
-    }).catch(console.error);
+});
 </script>
 
