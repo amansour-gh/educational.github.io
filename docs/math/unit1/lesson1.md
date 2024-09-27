@@ -1,5 +1,5 @@
 # Unit One : Numbers and operations on them
-## lesson One : Proportion
+## Lesson One : Proportion
 ### Ratio
 A ratio is a method of comparing two quantity of the same kind 
 > expresses the relationship between a part and a part, a part and a whole, or a whole and a part
@@ -208,36 +208,23 @@ $$X = \frac{240}{4} = 60 $$
 </head>
 <body>
 
-    <h1>رسم بياني باستخدام Chart.js</h1>
+    <h1>رسم بياني خطي باستخدام Chart.js</h1>
     <canvas id="myChart" width="400" height="200"></canvas>
 
     <script>
         // تأكد من أن الكود التالي يأتي بعد تضمين Chart.js
         const ctx = document.getElementById('myChart').getContext('2d');
         const myChart = new Chart(ctx, {
-            type: 'bar', // نوع الرسم البياني (مثل 'line', 'bar', 'pie', إلخ)
+            type: 'line', // نوع الرسم البياني (خط)
             data: {
                 labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
                 datasets: [{
                     label: '# من الأصوات',
                     data: [12, 19, 3, 5, 2, 3],
-                    backgroundColor: [
-                        'rgba(255, 99, 132, 0.2)',
-                        'rgba(54, 162, 235, 0.2)',
-                        'rgba(255, 206, 86, 0.2)',
-                        'rgba(75, 192, 192, 0.2)',
-                        'rgba(153, 102, 255, 0.2)',
-                        'rgba(255, 159, 64, 0.2)'
-                    ],
-                    borderColor: [
-                        'rgba(255, 99, 132, 1)',
-                        'rgba(54, 162, 235, 1)',
-                        'rgba(255, 206, 86, 1)',
-                        'rgba(75, 192, 192, 1)',
-                        'rgba(153, 102, 255, 1)',
-                        'rgba(255, 159, 64, 1)'
-                    ],
-                    borderWidth: 1
+                    backgroundColor: 'rgba(75, 192, 192, 0.2)', // لون الخلفية
+                    borderColor: 'rgba(75, 192, 192, 1)', // لون الخط
+                    borderWidth: 2,
+                    fill: true // ملء المساحة تحت الخط
                 }]
             },
             options: {
