@@ -183,31 +183,43 @@ $$
 $$X = \frac{240}{4} = 60 $$  
 ---  
 ### Graphical Representation of proportion  
-<div id="vis"></div>
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مخطط الأعمدة باستخدام Vega-Lite</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+    <h1>مخطط الأعمدة</h1>
+    <div id="vis"></div>
+    <script>
+        const spec = {
+          "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+          "description": "A simple bar chart with embedded data.",
+          "data": {
+            "values": [
+              {"a": "A", "b": 28}, {"a": "B", "b": 55}, {"a": "C", "b": 43},
+              {"a": "D", "b": 91}, {"a": "E", "b": 81}, {"a": "F", "b": 53},
+              {"a": "G", "b": 19}, {"a": "H", "b": 87}, {"a": "I", "b": 52}
+            ]
+          },
+          "mark": "bar",
+          "encoding": {
+            "x": {"field": "a", "type": "nominal", "axis": {"labelAngle": 0}},
+            "y": {"field": "b", "type": "quantitative"}
+          }
+        };
 
-<script type="text/javascript">
-    const spec = {
-      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-      "description": "A simple bar chart with embedded data.",
-      "data": {
-        "values": [
-          {"a": "A", "b": 28}, {"a": "B", "b": 55}, {"a": "C", "b": 43},
-          {"a": "D", "b": 91}, {"a": "E", "b": 81}, {"a": "F", "b": 53},
-          {"a": "G", "b": 19}, {"a": "H", "b": 87}, {"a": "I", "b": 52}
-        ]
-      },
-      "mark": "bar",
-      "encoding": {
-        "x": {"field": "a", "type": "nominal", "axis": {"labelAngle": 0}},
-        "y": {"field": "b", "type": "quantitative"}
-      }
-    };
-
-    vegaEmbed('#vis', spec).then(function(result) {
-        // تحقق من النتيجة إذا كنت بحاجة إلى معلومات إضافية
-    }).catch(console.error);
-</script>
-
+        vegaEmbed('#vis', spec).then(function(result) {
+            // تحقق من النتيجة إذا كنت بحاجة إلى معلومات إضافية
+        }).catch(console.error);
+    </script>
+</body>
+</html>
 
 
 
