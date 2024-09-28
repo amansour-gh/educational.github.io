@@ -10,7 +10,7 @@ theme:
 nav:
   - Home: index.md
   - Math:
-      - Unit 1 Numbers and Operations on Them: /unit1/unit1.md
+      - Unit 1 Numbers and Operations on Them: math//unit1/index.md
           - Lesson 1 Proportion: math/unit1/lesson1.md
           - Exercise 1 Proportion: math/unit1/exercise1.md
           - Lesson 2 Applications of Ration and Proportion: math/unit1/lesson2.md
