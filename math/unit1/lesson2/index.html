@@ -41,6 +41,8 @@
       
     
     
+      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css">
+    
     <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -578,6 +580,9 @@
                   
 
 
+<p><link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" /></p>
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
 <h1 id="unit-one-numbers-and-operations-on-them">Unit One : Numbers and operations on them</h1>
 <h2 id="lesson-two-applications-of-ratio-and-proportion-first-scale-drawing">Lesson Two : Applications of Ratio and Proportion (First) Scale Drawing</h2>
 <h3 id="concept-of-scale-drawing">Concept of Scale Drawing</h3>
@@ -640,6 +645,58 @@ The scale drawing on map can be expressed as follow  </p>
 <p><br></p>
 <p>this means that every 1 cm on the map represent 20 km in reality  </p>
 <h3 id="example-4">Example 4</h3>
+<p>use the ruler to measure the distance between Cairo and Alexandria on the map, and use the map scale to find the actual distance between Cairo and Alexandria.  </p>
+<div style="position: relative; height: 2px; border-top: 2px solid black; margin: 20px 0;">
+  <div style="position: absolute; left: 0%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
+    <span style="font-size: 12px;">0 km</span>
+  </div>
+  <div style="position: absolute; left: 16.67%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
+    <span style="font-size: 12px;">55 km</span>
+  </div>
+  <div style="position: absolute; left: 33.33%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
+    <span style="font-size: 12px;">110 km</span>
+  </div>
+  <div style="position: absolute; left: 50%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
+    <span style="font-size: 12px;">165 km</span>
+  </div>
+  <div style="position: absolute; left: 66.67%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
+    <span style="font-size: 12px;">220 km</span>
+  </div>
+  <div style="position: absolute; left: 83.33%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
+    <span style="font-size: 12px;">275 km</span>
+  </div>
+</div>
+
+<p><br></p>
+<div id="map" style="height: 500px;"></div>
+
+<script>
+  var map = L.map('map').setView([26.8206, 30.8025], 6); // مركز مصر
+
+  // إضافة الخريطة
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+
+  // إضافة مواقع القاهرة والإسكندرية
+  var cairo = L.marker([30.0444, 31.2357]).addTo(map).bindPopup("القاهرة");
+  var alexandria = L.marker([31.2001, 29.9187]).addTo(map).bindPopup("الإسكندرية");
+
+  // رسم خط بين القاهرة والإسكندرية
+  var line = L.polyline([[30.0444, 31.2357], [31.2001, 29.9187]], {color: 'blue'}).addTo(map);
+</script>
+
+<p><br>  </p>
+<p><strong>Solution</strong>  </p>
+<p>the distance on the map = 4 cm<br />
+$$ \frac{1\,cm}{55\,km} = \frac{4\,cm}{X} $$
+$$ X = \frac{4 \times 55}{1} = 220 \, km $$</p>
 
 
 
@@ -696,6 +753,8 @@ The scale drawing on map can be expressed as follow  </p>
         <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
       
         <script src="../../../attr_list"></script>
+      
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
       
     
   </body>
