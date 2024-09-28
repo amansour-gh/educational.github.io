@@ -481,6 +481,15 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#question-14" class="md-nav__link">
+    <span class="md-ellipsis">
+      Question 14
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -658,6 +667,15 @@
   <a href="#question-13" class="md-nav__link">
     <span class="md-ellipsis">
       Question 13
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#question-14" class="md-nav__link">
+    <span class="md-ellipsis">
+      Question 14
     </span>
   </a>
   
@@ -1015,9 +1033,7 @@ $$ X = \frac{1960 \times 3}{840} = \frac{5880}{840} = 7 \, hours $$  </li>
 </ol>
 <h3 id="question-13">Question 13</h3>
 <p>Represent the following tables graphically, then determine which one shows a proportional relationship between the two variables :  </p>
-<ol>
-<li>Covered Distances  </li>
-</ol>
+<p><strong>Covered Distances</strong>  </p>
 <table>
 <thead>
 <tr>
@@ -1084,9 +1100,7 @@ $$ X = \frac{1960 \times 3}{840} = \frac{5880}{840} = 7 \, hours $$  </li>
     });
 </script>
 
-<ol>
-<li>Price of pies including delivery fees  </li>
-</ol>
+<p><strong>Price of pies including delivery fees</strong>  </p>
 <table>
 <thead>
 <tr>
@@ -1153,9 +1167,7 @@ $$ X = \frac{1960 \times 3}{840} = \frac{5880}{840} = 7 \, hours $$  </li>
     });
 </script>
 
-<ol>
-<li>Price of apples in market  </li>
-</ol>
+<p><strong>Price of apples in market</strong>  </p>
 <table>
 <thead>
 <tr>
@@ -1222,9 +1234,7 @@ $$ X = \frac{1960 \times 3}{840} = \frac{5880}{840} = 7 \, hours $$  </li>
     });
 </script>
 
-<ol>
-<li>Price of shampoo  </li>
-</ol>
+<p><strong>Price of shampoo</strong>  </p>
 <table>
 <thead>
 <tr>
@@ -1265,6 +1275,70 @@ $$ X = \frac{1960 \times 3}{840} = \frac{5880}{840} = 7 \, hours $$  </li>
             datasets: [{
                 label: '# Not Proportional ',
                 data: [0, 40, 50, 58, 70],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2,
+                fill: true
+            }]
+        },
+        options: {
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Time in Seconds'
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Distance in meters'
+                    },
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>
+
+<h3 id="question-14">Question 14</h3>
+<p>$$ Equilatreal Triangle Perimeter = 3 \times \, Side length $$</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Side Length</th>
+<th style="text-align: center;">Perimeter</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">6</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">9</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">12</td>
+</tr>
+</tbody>
+</table>
+<div>
+    <canvas id="myChart6" width="400" height="200"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx6 = document.getElementById('myChart6').getContext('2d');
+    const myChart6 = new Chart(ctx6, {
+        type: 'line',
+        data: {
+            labels: ['0', '2', '3', '4'],
+            datasets: [{
+                label: '# Proportional ',
+                data: [0, 6, 9, 12],
                 backgroundColor: 'rgba(75, 192, 192, 0.2)',
                 borderColor: 'rgba(75, 192, 192, 1)',
                 borderWidth: 2,
