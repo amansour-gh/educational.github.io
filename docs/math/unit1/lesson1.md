@@ -25,7 +25,11 @@ $$ \frac{50}{20} $$
 > ببساطه يا حج سيف بضرب البسط والمقام في نفس الرقم او قسمت البسط والمقام على نفس الرقم 
 ##### Example 2
 1. write two equivalent to $$ \frac{16}{24} $$
-2. if $\frac{6}{X}$ = $\frac{3}{4}$, what is the value of X?
+2. if
+   $$
+   \frac{6}{X} = \frac{3}{4}
+   $$  
+   , what is the value of X?
 ##### Solution
 1. write two equivalent to $$ \frac{16}{24} $$
     - Multiply:
