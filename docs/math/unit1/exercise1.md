@@ -317,7 +317,7 @@ $$ X = \frac{1960 \times 3}{840} = \frac{5880}{840} = 7 \, hours $$
 ### Question 13  
 Represent the following tables graphically, then determine which one shows a proportional relationship between the two variables :  
 
-1. Covered Distances 
+1.  Covered Distances 
 
 | Time (Seconds) | Distance (Meters) |
 |:--------------:|:-----------------:|
@@ -368,7 +368,7 @@ Represent the following tables graphically, then determine which one shows a pro
     });
 </script>  
 
-2. Price of pies including delivery fees  
+2.  Price of pies including delivery fees  
 
 | Number of Pies | Price (LE) |
 |:--------------:|:-----------------:|
@@ -386,7 +386,7 @@ Represent the following tables graphically, then determine which one shows a pro
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
     const ctx3 = document.getElementById('myChart3').getContext('2d');
-    const myChart2 = new Chart(ctx3, {
+    const myChart3 = new Chart(ctx3, {
         type: 'line',
         data: {
             labels: ['0', '1', '2', '3', '4'],
@@ -420,7 +420,7 @@ Represent the following tables graphically, then determine which one shows a pro
 </script>  
 
 
-3. Price of apples in market  
+3.  Price of apples in market  
 
 | Weight (kg) | Price (LE) |
 |:--------------:|:-----------------:|
@@ -472,7 +472,7 @@ Represent the following tables graphically, then determine which one shows a pro
 </script>  
 
 
-4. Price of shampoo  
+4.  Price of shampoo  
 
 
 | Volume (Millimiters) | Price (LE) |
@@ -494,7 +494,7 @@ Represent the following tables graphically, then determine which one shows a pro
     const myChart5 = new Chart(ctx5, {
         type: 'line',
         data: {
-            labels: ['0', '1', '2', '3', '4'],
+            labels: ['0', '100', '200', '300', '400'],
             datasets: [{
                 label: '# Price',
                 data: [0, 40, 50, 58, 70],
