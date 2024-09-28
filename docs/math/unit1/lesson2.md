@@ -81,7 +81,10 @@ The scale drawing on map can be expressed as follow
     <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
     <span style="font-size: 12px;">100 km</span>
   </div>
-</div>
+</div>  
+
+  
+  <br>
   
 
 this means that every 1 cm on the map represent 20 km in reality  
