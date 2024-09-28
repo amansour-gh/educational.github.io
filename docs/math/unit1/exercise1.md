@@ -266,3 +266,10 @@
         }
     });
 </script>  
+
+### Question 6  
+$$ \frac{221}{13} = \frac{272}{X} $$
+$$ X = \frac{13 \times 272}{221} = \frac{3536}{221} = 16 $$  
+
+### Question 7  
+$$ \frac{\frac{3}{4}}{24} = \frac{1 \frac[3]{4}}{X} $$
