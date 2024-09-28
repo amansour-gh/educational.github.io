@@ -317,7 +317,9 @@ $$ X = \frac{1960 \times 3}{840} = \frac{5880}{840} = 7 \, hours $$
 ### Question 13  
 Represent the following tables graphically, then determine which one shows a proportional relationship between the two variables :  
 
-1.  Covered Distances 
+1.  Covered Distances  
+
+
 
 | Time (Seconds) | Distance (Meters) |
 |:--------------:|:-----------------:|
@@ -340,7 +342,7 @@ Represent the following tables graphically, then determine which one shows a pro
         data: {
             labels: ['0', '1', '2', '3', '4'],
             datasets: [{
-                label: '# Distance',
+                label: '# Proportional',
                 data: [0, 6, 12, 18, 24],
                 backgroundColor: 'rgba(75, 192, 192, 0.2)',
                 borderColor: 'rgba(75, 192, 192, 1)',
@@ -368,7 +370,11 @@ Represent the following tables graphically, then determine which one shows a pro
     });
 </script>  
 
+
+
 2.  Price of pies including delivery fees  
+  
+
 
 | Number of Pies | Price (LE) |
 |:--------------:|:-----------------:|
@@ -391,7 +397,7 @@ Represent the following tables graphically, then determine which one shows a pro
         data: {
             labels: ['0', '1', '2', '3', '4'],
             datasets: [{
-                label: '# Price',
+                label: '# Proportional',
                 data: [0, 25, 45, 65, 85],
                 backgroundColor: 'rgba(75, 192, 192, 0.2)',
                 borderColor: 'rgba(75, 192, 192, 1)',
@@ -420,7 +426,10 @@ Represent the following tables graphically, then determine which one shows a pro
 </script>  
 
 
+
 3.  Price of apples in market  
+  
+
 
 | Weight (kg) | Price (LE) |
 |:--------------:|:-----------------:|
@@ -443,7 +452,7 @@ Represent the following tables graphically, then determine which one shows a pro
         data: {
             labels: ['0', '1', '2', '3', '4'],
             datasets: [{
-                label: '# Price',
+                label: '# Proportional',
                 data: [0, 45, 90, 135, 180],
                 backgroundColor: 'rgba(75, 192, 192, 0.2)',
                 borderColor: 'rgba(75, 192, 192, 1)',
@@ -473,6 +482,9 @@ Represent the following tables graphically, then determine which one shows a pro
 
 
 4.  Price of shampoo  
+  
+
+
 
 
 | Volume (Millimiters) | Price (LE) |
@@ -496,7 +508,7 @@ Represent the following tables graphically, then determine which one shows a pro
         data: {
             labels: ['0', '100', '200', '300', '400'],
             datasets: [{
-                label: '# Price',
+                label: '# Not Proportional ',
                 data: [0, 40, 50, 58, 70],
                 backgroundColor: 'rgba(75, 192, 192, 0.2)',
                 borderColor: 'rgba(75, 192, 192, 1)',
