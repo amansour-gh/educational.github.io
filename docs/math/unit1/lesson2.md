@@ -52,7 +52,16 @@ $$ \frac{1}{400,000} = \frac{The \, distance \, on \, the \, map}{24 \times 100,
 
 $$ The \, distance \, on \, the \, map = \frac{24 \times 100,000 \times 1}{400,000} = 6 \, cm $$  
 
-<div style="border-top: 2px solid black; width: 100%; margin: 20px 0;">
-  <span style="font-size: 12px;">0 km</span>
-  <span style="float: right; font-size: 12px;">5 km</span>
+**Note**  
+The scale drawing on map can be expressed as follow  
+
+
+<div style="position: relative; height: 2px; border-top: 2px solid black; margin: 20px 0;">
+  <div style="position: absolute; left: 0%;"><span style="font-size: 12px;">0 km</span></div>
+  <div style="position: absolute; left: 25%;"><span style="font-size: 12px;">20 km</span></div>
+  <div style="position: absolute; left: 50%;"><span style="font-size: 12px;">40 km</span></div>
+  <div style="position: absolute; left: 75%;"><span style="font-size: 12px;">60 km</span></div>
+  <div style="position: absolute; left: 75%;"><span style="font-size: 12px;">80 km</span></div>
+  <div style="position: absolute; left: 100%;"><span style="font-size: 12px;">100 km</span></div>
 </div>
+
