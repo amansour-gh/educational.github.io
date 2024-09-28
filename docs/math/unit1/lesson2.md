@@ -58,30 +58,31 @@ The scale drawing on map can be expressed as follow
 
 <div style="position: relative; height: 2px; border-top: 2px solid black; margin: 20px 0;">
   <div style="position: absolute; left: 0%; text-align: center;">
-    <div style="height: 10px; width: 0px; background-color: black; margin: auto;"></div>
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
     <span style="font-size: 12px;">0 km</span>
   </div>
-  <div style="position: absolute; left: 20%; text-align: center;">
-    <div style="height: 10px; width: 0px; background-color: black; margin: auto;"></div>
+  <div style="position: absolute; left: 16.67%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
     <span style="font-size: 12px;">20 km</span>
   </div>
-  <div style="position: absolute; left: 40%; text-align: center;">
-    <div style="height: 10px; width: 0px; background-color: black; margin: auto;"></div>
+  <div style="position: absolute; left: 33.33%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
     <span style="font-size: 12px;">40 km</span>
   </div>
-  <div style="position: absolute; left: 60%; text-align: center;">
-    <div style="height: 10px; width: 0px; background-color: black; margin: auto;"></div>
+  <div style="position: absolute; left: 50%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
     <span style="font-size: 12px;">60 km</span>
   </div>
-  <div style="position: absolute; left: 80%; text-align: center;">
-    <div style="height: 10px; width: 0px; background-color: black; margin: auto;"></div>
+  <div style="position: absolute; left: 66.67%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
     <span style="font-size: 12px;">80 km</span>
   </div>
-  <div style="position: absolute; left: 100%; text-align: center;">
-    <div style="height: 10px; width: 0px; background-color: black; margin: auto;"></div>
+  <div style="position: absolute; left: 83.33%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
     <span style="font-size: 12px;">100 km</span>
   </div>
-</div>  
+</div>
+
 
   
   <br>
