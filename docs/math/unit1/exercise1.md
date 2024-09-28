@@ -272,7 +272,4 @@ $$ \frac{221}{13} = \frac{272}{X} $$
 $$ X = \frac{13 \times 272}{221} = \frac{3536}{221} = 16 $$  
 
 ### Question 7  
-$$ \frac{\frac{3}{4}}{24} = \frac{1 \times \frac[3]{4}}{X} $$  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2OPOGUUkauc?si=-uCxp63DlKAQJenj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+$$ \frac{\frac{3}{4}}{24} = \frac{\frac{7}{4}}{X}
