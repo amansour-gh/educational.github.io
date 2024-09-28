@@ -596,16 +596,10 @@ $$ Equilatreal \,Triangle \,Perimeter \, = 3 \times \, Side \, length $$
 
 $$ \frac{1 \, wall}{4 \, hours} \, and \, \frac{1 \, wall}{2 \, hours} $$
 
-**Rate of Worker A**  
-$$ \frac{1 \, wall}{4 \, hours} = 0.25 $$
-
-**Rate of worker B**
-
-$$  \frac{1 \, wall}{2 \, hours} = 0.5 $$ 
 
 **Rate Compcombined**
-$$ 0.25 + 0.5 = 0.75 $$
+$$ \frac{1}{4} + \frac{1}{2} = \frac{1}{4} + \frac{1 \times 2}{2 \times 2} = \frac{1}{4} + \frac{2}{4} = \frac{3}{4} $$
 
 **Calculate the time required to paint one wall**
 
-$$ Time = \frac{1}{0.75} = \frac{1}{\frac{3}{4}} = \frac{4}{3} = 1.33 Hours = 1.33 \times 60 = 80 \, minutes $$
+$$ Time = \frac{1}{\frac{3}{4}} = \frac{4}{3} = 1.33 Hours = 1.33 \times 60 = 80 \, minutes $$
