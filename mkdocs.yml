@@ -19,4 +19,7 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://cdn.jsdelivr.net/npm/chart.js
   - attr_list
+  - https://unpkg.com/leaflet@1.7.1/dist/leaflet.js
 
+extra_css:
+  - https://unpkg.com/leaflet@1.7.1/dist/leaflet.css

@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+
 # Unit One : Numbers and operations on them
 ## Lesson Two : Applications of Ratio and Proportion (First) Scale Drawing  
 
@@ -91,5 +95,68 @@ The scale drawing on map can be expressed as follow
 this means that every 1 cm on the map represent 20 km in reality  
 
 ### Example 4  
+
+use the ruler to measure the distance between Cairo and Alexandria on the map, and use the map scale to find the actual distance between Cairo and Alexandria.  
+
+
+
+<div style="position: relative; height: 2px; border-top: 2px solid black; margin: 20px 0;">
+  <div style="position: absolute; left: 0%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
+    <span style="font-size: 12px;">0 km</span>
+  </div>
+  <div style="position: absolute; left: 16.67%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
+    <span style="font-size: 12px;">55 km</span>
+  </div>
+  <div style="position: absolute; left: 33.33%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
+    <span style="font-size: 12px;">110 km</span>
+  </div>
+  <div style="position: absolute; left: 50%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
+    <span style="font-size: 12px;">165 km</span>
+  </div>
+  <div style="position: absolute; left: 66.67%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
+    <span style="font-size: 12px;">220 km</span>
+  </div>
+  <div style="position: absolute; left: 83.33%; text-align: center;">
+    <div style="height: 10px; width: 2px; background-color: black; margin: auto;"></div>
+    <span style="font-size: 12px;">275 km</span>
+  </div>
+</div>
+
+
+  
+  <br>
+
+<div id="map" style="height: 500px;"></div>
+
+<script>
+  var map = L.map('map').setView([26.8206, 30.8025], 6); // مركز مصر
+
+  // إضافة الخريطة
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+
+  // إضافة مواقع القاهرة والإسكندرية
+  var cairo = L.marker([30.0444, 31.2357]).addTo(map).bindPopup("القاهرة");
+  var alexandria = L.marker([31.2001, 29.9187]).addTo(map).bindPopup("الإسكندرية");
+
+  // رسم خط بين القاهرة والإسكندرية
+  var line = L.polyline([[30.0444, 31.2357], [31.2001, 29.9187]], {color: 'blue'}).addTo(map);
+</script>  
+
+
+<br>  
+
+
+**Solution**  
+
+the distance on the map = 4 cm  
+$$ \frac{1\,cm}{55\,km} = \frac{4\,cm}{X} $$
+$$ X = \frac{4 \times 55}{1} = 220 \, km $$
 
 
