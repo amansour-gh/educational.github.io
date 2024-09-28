@@ -35,4 +35,20 @@ if the scale drawing in the map is 1 : 500,000 and the distance between two citi
 
 **Solution**  
 
-$$ The \, scale \, drawing = \frac{The \, distance \, on \, the \, map}{the \, real \, distance} $$
+$$ The \, scale \, drawing = \frac{The \, distance \, on \, the \, map}{the \, real \, distance} $$  
+$$ \frac{1}{500,000} = \frac{3 \, cm}{The \ , real \, distance} $$  
+$$ The\,real\,distance = \frac{3\,cm \times 500,000}{1} = 1,500,000\,cm = \frac{1,500,000}{100,000} = 15 \, km $$  
+
+
+### Example 3  
+
+if the distanc between two cities is 24 km, then find the distance in **cm** between the two cities on a map given that the scale drawing of the map is 1 : 400,000  
+
+**Solution**  
+
+$$ The \, scale \, drawing = \frac{The \, distance \, on \, the \, map}{the \, real \, distance} $$  
+
+$$ \frac{1}{400,000} = \frac{The \, distance \, on \, the \, map}{24 \times 100,000 \, cm} $$
+
+$$ The \, distance \, on \, the \, map = \frac{24 \times 100,000 \times 1}{400,000} = 6 \, cm $$  
+
