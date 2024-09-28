@@ -3,19 +3,17 @@
 ### Question 1
 **Complete the following:**  
 1.  The proportion is <span style="color:green">an equality of at least two ratios or two rates</span>  
-2.  If two ratios are equal, then the product of the extremes = <span style="color:green">Means</span>  
-    
-3.  
-$$
-\frac{X}{15} = \frac{3}{5}
-$$  
+2.  If two ratios are equal, then the product of the extremes = <span style="color:green">Means</span>
+3.  $$
+    \frac{X}{15} = \frac{3}{5}
+    $$  
 
-$$
-X = \frac{3 \times 15}{5}
-$$  
-$$
-X = \frac{45}{5} = 9
-$$  
+    $$
+    X = \frac{3 \times 15}{5}
+    $$  
+    $$
+    X = \frac{45}{5} = 9
+    $$
 
 4.  $$
     \frac{20}{25} = \frac{36}{X}
@@ -275,4 +273,47 @@ $$
 
 | Amount (LE)       | 300 | 600 | 900 | 1200 |
 |:-----------------:|:---:|:---:|:---:|:---:|
-| Number of Monthes | 2   | 4   |  6  |  8   |
+| Number of Monthes | 2   | 4   |  6  |  8   |  
+
+1. Table one  
+
+
+<div>
+    <canvas id="myChart1" width="400" height="200"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx1 = document.getElementById('myChart1').getContext('2d');
+    const myChart1 = new Chart(ctx1, {
+        type: 'line',
+        data: {
+            labels: ['0', '2', '4', '6', '8'],
+            datasets: [{
+                label: '',
+                data: [0, 300, 600, 900, 1200],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2,
+                fill: true
+            }]
+        },
+        options: {
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Number of Monthes'
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Amount (LE)'
+                    },
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>  
