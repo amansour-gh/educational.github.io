@@ -317,8 +317,7 @@ $$ X = \frac{1960 \times 3}{840} = \frac{5880}{840} = 7 \, hours $$
 ### Question 13  
 Represent the following tables graphically, then determine which one shows a proportional relationship between the two variables :  
 
-1.  Covered Distances  
-
+**Covered Distances**  
 
 
 | Time (Seconds) | Distance (Meters) |
@@ -372,7 +371,8 @@ Represent the following tables graphically, then determine which one shows a pro
 
 
 
-2.  Price of pies including delivery fees  
+**Price of pies including delivery fees**  
+
   
 
 
@@ -427,7 +427,8 @@ Represent the following tables graphically, then determine which one shows a pro
 
 
 
-3.  Price of apples in market  
+**Price of apples in market**  
+
   
 
 
@@ -481,9 +482,7 @@ Represent the following tables graphically, then determine which one shows a pro
 </script>  
 
 
-4.  Price of shampoo  
-  
-
+**Price of shampoo**  
 
 
 
@@ -537,4 +536,58 @@ Represent the following tables graphically, then determine which one shows a pro
 </script>  
 
 
+### Question 14  
+
+$$ Equilatreal Triangle Perimeter = 3 \times \, Side length $$
+
+
+
+| Side Length | Perimeter |
+|:--------------:|:-----------------:|
+| 2              | 6                 |
+| 3              | 9                |
+| 4              | 12                |  
+
+
+
+
+<div>
+    <canvas id="myChart6" width="400" height="200"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx6 = document.getElementById('myChart6').getContext('2d');
+    const myChart6 = new Chart(ctx6, {
+        type: 'line',
+        data: {
+            labels: ['0', '2', '3', '4'],
+            datasets: [{
+                label: '# Proportional ',
+                data: [0, 6, 9, 12],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2,
+                fill: true
+            }]
+        },
+        options: {
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Time in Seconds'
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Distance in meters'
+                    },
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>  
 
