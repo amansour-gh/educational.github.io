@@ -52,3 +52,7 @@ $$ \frac{1}{400,000} = \frac{The \, distance \, on \, the \, map}{24 \times 100,
 
 $$ The \, distance \, on \, the \, map = \frac{24 \times 100,000 \times 1}{400,000} = 6 \, cm $$  
 
+<div style="border-top: 2px solid black; width: 100%; margin: 20px 0;">
+  <span style="font-size: 12px;">0 km</span>
+  <span style="float: right; font-size: 12px;">5 km</span>
+</div>
