@@ -410,13 +410,13 @@ Represent the following tables graphically, then determine which one shows a pro
                 x: {
                     title: {
                         display: true,
-                        text: 'Time in Seconds'
+                        text: 'Number of Pies'
                     }
                 },
                 y: {
                     title: {
                         display: true,
-                        text: 'Distance in meters'
+                        text: 'Price (LE)'
                     },
                     beginAtZero: true
                 }
@@ -466,13 +466,13 @@ Represent the following tables graphically, then determine which one shows a pro
                 x: {
                     title: {
                         display: true,
-                        text: 'Time in Seconds'
+                        text: 'Weight (kg)'
                     }
                 },
                 y: {
                     title: {
                         display: true,
-                        text: 'Distance in meters'
+                        text: 'Price (LE)'
                     },
                     beginAtZero: true
                 }
@@ -520,13 +520,13 @@ Represent the following tables graphically, then determine which one shows a pro
                 x: {
                     title: {
                         display: true,
-                        text: 'Time in Seconds'
+                        text: 'Volume (Millimiters)'
                     }
                 },
                 y: {
                     title: {
                         display: true,
-                        text: 'Distance in meters'
+                        text: 'Price (LE)'
                     },
                     beginAtZero: true
                 }
@@ -538,7 +538,7 @@ Represent the following tables graphically, then determine which one shows a pro
 
 ### Question 14  
 
-$$ Equilatreal Triangle Perimeter = 3 \times \, Side length $$
+$$ Equilatreal \,Triangle \,Perimeter \, = 3 \times \, Side \, length $$
 
 
 
@@ -563,7 +563,7 @@ $$ Equilatreal Triangle Perimeter = 3 \times \, Side length $$
         data: {
             labels: ['0', '2', '3', '4'],
             datasets: [{
-                label: '# Proportional ',
+                label: '# Not Proportional ',
                 data: [0, 6, 9, 12],
                 backgroundColor: 'rgba(75, 192, 192, 0.2)',
                 borderColor: 'rgba(75, 192, 192, 1)',
@@ -576,13 +576,13 @@ $$ Equilatreal Triangle Perimeter = 3 \times \, Side length $$
                 x: {
                     title: {
                         display: true,
-                        text: 'Time in Seconds'
+                        text: 'Side Length'
                     }
                 },
                 y: {
                     title: {
                         display: true,
-                        text: 'Distance in meters'
+                        text: 'Perimeter'
                     },
                     beginAtZero: true
                 }
@@ -591,3 +591,7 @@ $$ Equilatreal Triangle Perimeter = 3 \times \, Side length $$
     });
 </script>  
 
+
+### Question 15  
+
+$$ \frac{1 \, wall}{4 \, hours} = 
