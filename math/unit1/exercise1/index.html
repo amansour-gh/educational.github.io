@@ -472,6 +472,15 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#question-13" class="md-nav__link">
+    <span class="md-ellipsis">
+      Question 13
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -640,6 +649,15 @@
   <a href="#question-12" class="md-nav__link">
     <span class="md-ellipsis">
       Question 12
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#question-13" class="md-nav__link">
+    <span class="md-ellipsis">
+      Question 13
     </span>
   </a>
   
@@ -995,6 +1013,76 @@ $$ X = \frac{840 \times 5}{3} = \frac{4200}{3} = 1400 \, m^2 $$</p>
 $$ \frac{840 \, m^2}{3 \, hours} = \frac{1960 \, m^2}{X} $$
 $$ X = \frac{1960 \times 3}{840} = \frac{5880}{840} = 7 \, hours $$  </li>
 </ol>
+<h3 id="question-13">Question 13</h3>
+<p>Represent the following tables graphically, then determine which one shows a proportional relationship between the two variables :  </p>
+<ol>
+<li>Covered Distances </li>
+</ol>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Time (Seconds)</th>
+<th style="text-align: center;">Distance (Meters)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">6</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">18</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">24</td>
+</tr>
+</tbody>
+</table>
+<div>
+    <canvas id="myChart2" width="400" height="200"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx1 = document.getElementById('myChart2').getContext('2d');
+    const myChart2 = new Chart(ctx1, {
+        type: 'line',
+        data: {
+            labels: ['0', '1', '2', '3', '4'],
+            datasets: [{
+                label: '# Distance',
+                data: [0, 6, 12, 18, 24],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2,
+                fill: true
+            }]
+        },
+        options: {
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Time in Seconds'
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Distance in meters'
+                    },
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>
 
 
 
