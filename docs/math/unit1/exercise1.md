@@ -193,6 +193,88 @@
     $$  
     Extremes = Means **this is proportinal quantities**  
 
+### Question 4
 4. Solve the following proportions:  
-   1. $\frac{3}{4} = \frac{X}{20}$  
+   1. 
+   $$
+   \frac{3}{4} = \frac{X}{20}
+   $$  
+   $$
+   X = \frac{20 \times 3}{4} =\frac{60}{4} = 15
+   $$  
+   
+   2. 
+   $$
+   \frac{6}{X} = \frac{12}{14}
+   $$  
+   $$
+   X = \frac{6 \times 14}{12} = \frac{84}{12} = 7
+   $$  
+
+   3. 
+   $$
+   \frac{15}{X} =\frac{30}{12}
+   $$
+   $$
+   X = \frac{15 \times 12}{30} = \frac{180}{30} = 30
+   $$  
+
+   4. a : 16 = 5 : 4  
+   
+   $$
+   \frac{A}{16} = \frac{5}{4}
+   $$
+   $$
+   A = \frac{16 \times 5}{4} = \frac{80}{4} = 20
+   $$  
+
+   5. 7 : 8 = 21 : M
+   $$
+   M = \frac{8 \times 21}{7} = \frac{168}{7} = 24
+   $$  
+
+   6. 
+   $$
+   \frac{1}{3} = \frac{2}{B + 1}
+   $$
+   $$
+   B + 1 = \frac{2 \times 3}{1} = \frac{6}{1} = 6
+   $$
+   $$
+   B = 6 - 1 = 5
+   $$  
+
+   7. 
+   $$
+   \frac{L - 3}{12} = \frac{5}{4}
+   $$
+   $$
+   L - 3 = \frac{12 \times 5}{4} = \frac{60}{4} = 15
+   $$
+   $$
+   L = 15 + 3 = 18
+   $$  
+
+   8. 
+   $$
+   \frac{16}{3X} = \frac{8}{12}
+   $$
+   $$
+   3X = \frac{16 \times 12}{8} = \frac{192}{8} = 24
+   $$
+   $$
+   X = \frac{24}{3} = 8
+   $$  
+
+   9. 
+   $$
+   \frac{8}{Y} = \frac{Y}{2}
+   $$
+   $$
+   2Y = 16
+   $$
+   $$
+   Y = \frac{16}{2} = 8
+   $$  
+
    
