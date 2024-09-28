@@ -602,4 +602,40 @@ $$ \frac{1}{4} + \frac{1}{2} = \frac{1}{4} + \frac{1 \times 2}{2 \times 2} = \fr
 
 **Calculate the time required to paint one wall**
 
-$$ Time = \frac{1}{\frac{3}{4}} = \frac{4}{3} = 1.33 Hours = 1.33 \times 60 = 80 \, minutes $$
+$$ Time = \frac{1}{\frac{3}{4}} = \frac{4}{3} = 1.33 \,Hours = 1.33 \times 60 = 80 \, minutes $$  
+
+## Multiple Choice  
+### Choose the correct answer from the given ones:
+1.  Which of the following represents a proportion ?
+    1.  $$ \frac{3}{54} \, and \, \frac{5}{80} $$
+        $$ 3 \times 80 = 240 $$
+        $$ 54 \times 5 = 270 $$
+        **Not Proportional**
+    2.  $$ \frac{10}{12} \, and \, \frac{12}{18} $$
+        $$ 10 \times 18 = 180 $$
+        $$ 12 \times 12 = 144 $$
+        **Not Proportional**
+    3.  $$ \frac{3}{2} \, and \, \frac{9}{6} $$
+        $$ 3 \times 6 = 18 $$
+        $$ 2 \times 9 = 18 $$
+        **Proportional**
+    4.  $$ \frac{144}{2} \, and \, \frac{210}{3} $$
+        $$ 144 \times 3 = 432 $$
+        $$ 2 \times 210 = 420 $$
+        **Not Proportional**
+
+2.  $$ \frac{75}{25} = \frac{300}{X} $$
+3.  C
+4.  D
+5.  A
+6.  B
+7.  B
+8.  C
+9.  B
+10. D
+11. D
+12. A
+13. C
+14. D
+        
+        
