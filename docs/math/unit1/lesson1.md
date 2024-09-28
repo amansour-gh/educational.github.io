@@ -250,7 +250,7 @@ The two tables below show the distance in kilometere covered by a car. Determine
     });
 </script>  
 
-2. Table 2  
+2. Table Two  
 
 
 <div>
