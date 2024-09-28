@@ -171,6 +171,7 @@
     Extremes \neq Means
     $$  
     **this is NOT proportinal quantities**  
+    
     3. 12, 27, 16, 18
     $$
     Extremes = 12 \times 18 = 216
@@ -182,6 +183,7 @@
     Extremes \neq Means
     $$  
     **this is NOT proportinal quantities**  
+    
     4. 8, 24, 6, 18
     $$
     Extremes = 8 \times 18 = 144
@@ -190,3 +192,7 @@
     Means = 24 \times 6 = 144
     $$  
     Extremes = Means **this is proportinal quantities**  
+
+4. Solve the following proportions:  
+   1. $\frac{3}{4} = \frac{X}{20}$  
+   
