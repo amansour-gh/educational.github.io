@@ -277,4 +277,42 @@ $$ 1 \frac{3}{4} \times 24 $$
 $$ \frac{7}{4} \times 24 $$
 $$ \frac{7 \times 24}{4} = \frac{168}{4} = 42 $$
 $$ \frac{3}{4} \times X = 42 $$
-$$ X = 42 \times \frac{4}{3} = \frac{42 \times 4}{3} = \frac{168}{3} = 56 $$
+$$ X = 42 \times \frac{4}{3} = \frac{42 \times 4}{3} = \frac{168}{3} = 56 $$  
+
+### Question 8  
+Shopping : Omar bought 8 apples for 60 LE How many apples of the same type can he buy for 105 LE ?  
+
+$$ \frac{8 apples}{60 LE} = \frac{X}{105 LE} $$
+$$ X = \frac{8 \times 105}{60} = \frac{840}{60} = 14 apples $$  
+
+### Question 9  
+Science : A car uses 5 Liters of petrol to cover a distance of 40 km. How much petrol would the car need to cover the distance of 128 km if travels at the same rate?  
+
+$$ \frac{5}{40} = \frac{X}{128} $$
+$$ X = \frac{5 \times 128}{40} = \frac{640}{40} = 16 liters $$  
+
+### Question 10  
+Science : The weight of a body on earth is 90 Network. if its weight on the moon is 15 Newtons. What is the weight of another body on the moon if its weight on earth is 60 Newton ?  
+
+$$ \frac{90}{15} = \frac{60}{X} $$
+$$ X = \frac{15 \times 60}{90} = \frac{900}{90} = 10 Newtons $$  
+
+### Question 11  
+Culture : Eman reads 10 pages in 40 minutes. How much time, in hours would it take her to read a book of 120 pages if she reads at the same rate ?  
+
+$$ \frac{10 pages}{40 Minutes} = \frac{120 pages}{X} $$
+$$ X = \frac{40 \times 120}{10} = \frac{4800}{10} = 480 minutes = \frac{480}{60} = 8 hours $$  
+
+### Question 12  
+Atractor cultivates 840 square meters in 3 hours.  
+1. What area of land does the tractor cultivates in 5 hours if it continues at the same rate ?  
+
+$$ \frac{840 m^2}{3 hours} = \frac{X}{5 hours} $$
+$$ X = \frac{840 \times 5}{3} = \frac{4200}{3} = 1400 m^2 $$
+
+2. How many hours are needed for the tractor to cultivates 1960 square meters ?  
+$$ \frac{840 m^2}{3 hours} = \frac{1960 m^2}{X} $$
+$$ X = \frac{1960 \times 3}{840} = \frac{5880}{840} = 7 hours $$  
+
+
+
