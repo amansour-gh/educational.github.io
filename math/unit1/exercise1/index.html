@@ -1084,6 +1084,213 @@ $$ X = \frac{1960 \times 3}{840} = \frac{5880}{840} = 7 \, hours $$  </li>
     });
 </script>
 
+<ol>
+<li>Price of pies including delivery fees  </li>
+</ol>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Number of Pies</th>
+<th style="text-align: center;">Price (LE)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">25</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">45</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">65</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">85</td>
+</tr>
+</tbody>
+</table>
+<div>
+    <canvas id="myChart3" width="400" height="200"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx3 = document.getElementById('myChart3').getContext('2d');
+    const myChart2 = new Chart(ctx3, {
+        type: 'line',
+        data: {
+            labels: ['0', '1', '2', '3', '4'],
+            datasets: [{
+                label: '# Price',
+                data: [0, 25, 45, 65, 85],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2,
+                fill: true
+            }]
+        },
+        options: {
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Time in Seconds'
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Distance in meters'
+                    },
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>
+
+<ol>
+<li>Price of apples in market  </li>
+</ol>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Weight (kg)</th>
+<th style="text-align: center;">Price (LE)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">45</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">90</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">135</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">180</td>
+</tr>
+</tbody>
+</table>
+<div>
+    <canvas id="myChart4" width="400" height="200"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx4 = document.getElementById('myChart4').getContext('2d');
+    const myChart4 = new Chart(ctx4, {
+        type: 'line',
+        data: {
+            labels: ['0', '1', '2', '3', '4'],
+            datasets: [{
+                label: '# Price',
+                data: [0, 45, 90, 135, 180],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2,
+                fill: true
+            }]
+        },
+        options: {
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Time in Seconds'
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Distance in meters'
+                    },
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>
+
+<ol>
+<li>Price of shampoo  </li>
+</ol>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Volume (Millimiters)</th>
+<th style="text-align: center;">Price (LE)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">40</td>
+</tr>
+<tr>
+<td style="text-align: center;">200</td>
+<td style="text-align: center;">50</td>
+</tr>
+<tr>
+<td style="text-align: center;">300</td>
+<td style="text-align: center;">58</td>
+</tr>
+<tr>
+<td style="text-align: center;">400</td>
+<td style="text-align: center;">70</td>
+</tr>
+</tbody>
+</table>
+<div>
+    <canvas id="myChart5" width="400" height="200"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx5 = document.getElementById('myChart5').getContext('2d');
+    const myChart5 = new Chart(ctx5, {
+        type: 'line',
+        data: {
+            labels: ['0', '1', '2', '3', '4'],
+            datasets: [{
+                label: '# Price',
+                data: [0, 40, 50, 58, 70],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2,
+                fill: true
+            }]
+        },
+        options: {
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Time in Seconds'
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Distance in meters'
+                    },
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>
+
 
 
 
