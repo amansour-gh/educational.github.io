@@ -234,7 +234,7 @@
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
     const ctx1 = document.getElementById('myChart1').getContext('2d');
-    const myChart1 = new Chart(ctx1, {
+    const myChart1 = new Chart(ctx2, {
         type: 'line',
         data: {
             labels: ['0', '2', '4', '6', '8'],
