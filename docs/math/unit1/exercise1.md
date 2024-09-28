@@ -300,7 +300,7 @@ $$ X = \frac{15 \times 60}{90} = \frac{900}{90} = 10 Newtons $$
 ### Question 11  
 Culture : Eman reads 10 pages in 40 minutes. How much time, in hours would it take her to read a book of 120 pages if she reads at the same rate ?  
 
-$$ \frac{10 pages}{40 Minutes} = \frac{120 pages}{X} $$
+$$ \frac{10 \, \text{pages}}{40 Minutes} = \frac{120 pages}{X} $$
 $$ X = \frac{40 \times 120}{10} = \frac{4800}{10} = 480 minutes = \frac{480}{60} = 8 hours $$  
 
 ### Question 12  
