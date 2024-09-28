@@ -368,5 +368,161 @@ Represent the following tables graphically, then determine which one shows a pro
     });
 </script>  
 
+2. Price of pies including delivery fees  
+
+| Number of Pies | Price (LE) |
+|:--------------:|:-----------------:|
+| 1              | 25                 |
+| 2              | 45                |
+| 3              | 65                |
+| 4              | 85                |  
+
+
+
+<div>
+    <canvas id="myChart3" width="400" height="200"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx3 = document.getElementById('myChart3').getContext('2d');
+    const myChart2 = new Chart(ctx3, {
+        type: 'line',
+        data: {
+            labels: ['0', '1', '2', '3', '4'],
+            datasets: [{
+                label: '# Price',
+                data: [0, 25, 45, 65, 85],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2,
+                fill: true
+            }]
+        },
+        options: {
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Time in Seconds'
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Distance in meters'
+                    },
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>  
+
+
+3. Price of apples in market  
+
+| Weight (kg) | Price (LE) |
+|:--------------:|:-----------------:|
+| 1              | 45                 |
+| 2              | 90                |
+| 3              | 135                |
+| 4              | 180               |  
+
+
+
+<div>
+    <canvas id="myChart4" width="400" height="200"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx4 = document.getElementById('myChart4').getContext('2d');
+    const myChart4 = new Chart(ctx4, {
+        type: 'line',
+        data: {
+            labels: ['0', '1', '2', '3', '4'],
+            datasets: [{
+                label: '# Price',
+                data: [0, 45, 90, 135, 180],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2,
+                fill: true
+            }]
+        },
+        options: {
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Time in Seconds'
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Distance in meters'
+                    },
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>  
+
+
+4. Price of shampoo  
+
+
+| Volume (Millimiters) | Price (LE) |
+|:--------------:|:-----------------:|
+| 100              | 40                 |
+| 200              | 50                |
+| 300              | 58                |
+| 400              | 70                |  
+
+
+
+<div>
+    <canvas id="myChart5" width="400" height="200"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx5 = document.getElementById('myChart5').getContext('2d');
+    const myChart5 = new Chart(ctx5, {
+        type: 'line',
+        data: {
+            labels: ['0', '1', '2', '3', '4'],
+            datasets: [{
+                label: '# Price',
+                data: [0, 40, 50, 58, 70],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2,
+                fill: true
+            }]
+        },
+        options: {
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Time in Seconds'
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Distance in meters'
+                    },
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>  
+
 
 
