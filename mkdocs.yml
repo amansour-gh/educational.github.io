@@ -10,7 +10,8 @@ theme:
 nav:
   - Home: index.md
   - Math:
-      - Unit 1 Numbers and Operations on Them:  math/unit1/unit1# Updated the title for better readability
+      - Unit 1 Numbers and Operations on Them:  # Updated the title for better readability
+          - Unit One : Numbers and operations on them : math/unit1/unit1.md
           - Lesson 1 Proportion: math/unit1/lesson1.md
           - Exercise 1 Proportion: math/unit1/exercise1.md
 
