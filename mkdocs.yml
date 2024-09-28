@@ -9,11 +9,11 @@ theme:
 
 nav:
   - Home: index.md
-  - Math:
-    - Unit 1 Proportion: unit1/index.md
-      - Exercise 1 Proportion: math/unit1/exercise1.md
-      - Exercise 1 Proportion: math/unit1/exercise1.md
-      - Lesson 2 Applications of Ratio and Proportion: math/unit1/lesson2.md
+    - Math:
+      - Unit 1 Proportion: unit1/index.md
+        - Exercise 1 Proportion: math/unit1/exercise1.md
+        - Exercise 1 Proportion: math/unit1/exercise1.md
+        - Lesson 2 Applications of Ratio and Proportion: math/unit1/lesson2.md
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
