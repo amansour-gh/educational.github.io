@@ -300,19 +300,19 @@ $$ X = \frac{15 \times 60}{90} = \frac{900}{90} = 10 Newtons $$
 ### Question 11  
 Culture : Eman reads 10 pages in 40 minutes. How much time, in hours would it take her to read a book of 120 pages if she reads at the same rate ?  
 
-$$ \frac{10 \, \text{pages}}{40 Minutes} = \frac{120 pages}{X} $$
-$$ X = \frac{40 \times 120}{10} = \frac{4800}{10} = 480 minutes = \frac{480}{60} = 8 hours $$  
+$$ \frac{10 \, \text{pages}}{40 \, Minutes} = \frac{120 \, pages}{X} $$
+$$ X = \frac{40 \times 120}{10} = \frac{4800}{10} = 480 \,  minutes = \frac{480}{60} = 8 \, hours $$  
 
 ### Question 12  
 Atractor cultivates 840 square meters in 3 hours.  
 1. What area of land does the tractor cultivates in 5 hours if it continues at the same rate ?  
 
-$$ \frac{840 m^2}{3 hours} = \frac{X}{5 hours} $$
-$$ X = \frac{840 \times 5}{3} = \frac{4200}{3} = 1400 m^2 $$
+$$ \frac{840 \, m^2}{3 \, hours} = \frac{X}{5 \, hours} $$
+$$ X = \frac{840 \times 5}{3} = \frac{4200}{3} = 1400 \, m^2 $$
 
 2. How many hours are needed for the tractor to cultivates 1960 square meters ?  
-$$ \frac{840 m^2}{3 hours} = \frac{1960 m^2}{X} $$
-$$ X = \frac{1960 \times 3}{840} = \frac{5880}{840} = 7 hours $$  
+$$ \frac{840 \, m^2}{3 \, hours} = \frac{1960 \, m^2}{X} $$
+$$ X = \frac{1960 \times 3}{840} = \frac{5880}{840} = 7 \, hours $$  
 
 
 
