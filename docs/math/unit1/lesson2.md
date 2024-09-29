@@ -171,8 +171,9 @@ $X = \frac{4 \times 55}{1} = 220 \, km$
 the figure represent a model of square room wuth a side length of 4 cm, where every i cm in the model represent $1 \frac{1}{2}$ in reality.
 calculate the real area of the room.  
 
+![image1](assets/saif.jpg)
 
-![Room Layout](/docs/assets/room.png)  
+
 
 **Solution**
 
@@ -182,3 +183,6 @@ $\frac{1 \, cm}{1 \frac{1}{2}\,m} = \frac{4\,cm}{The\, real\,side\, length}$
 
 The real side length = $\frac{4 \times 1 \frac{1}{2}}{1} = 6\, m$  
 
+
+
+[def]: /docs/assets/room.png
