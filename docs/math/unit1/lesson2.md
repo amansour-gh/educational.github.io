@@ -172,7 +172,7 @@ the figure represent a model of square room wuth a side length of 4 cm, where ev
 calculate the real area of the room.  
 
 
-![Room Layout](assets/room.png)  
+![Room Layout](/docs/assets/room.png)  
 
 **Solution**
 
