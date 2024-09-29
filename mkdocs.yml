@@ -14,6 +14,7 @@ nav:
       - Lesson 1 Proportion: math/unit1/lesson1.md
       - Exercise 1 Proportion: math/unit1/exercise1.md
       - Lesson 2 Applications of Ratio and Proportion: math/unit1/lesson2.md
+      - Exercise 2 Applications of Ratio and Proportion: math/unit1/exercise2.md
 
 markdown_extensions:
   - pymdownx.arithmatex:

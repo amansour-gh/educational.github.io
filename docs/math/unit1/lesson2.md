@@ -14,14 +14,17 @@
 
 a. if the distance between two cities is 80 km and the the distance between them on the map is 4 cm, find the scale drawing for this map  
 
-$$ The \, scale \, drawing \, = \frac{The \, length \, in \, the \, drawing}{the \, real \, length} = \frac{4 \, cm}{80 \, Km} = \frac{4}{8,000,000} = \frac{1}{2,000,000} $$  
+$The \, scale \, drawing \, = \frac{The \, length \, in \, the \, drawing}{the \, real \, length}$  
+
+$= \frac{4 \, cm}{80 \, Km} = \frac{4}{8,000,000} = \frac{1}{2,000,000}$  
+
 The scale drawing can be written as 1 : 2,000,000
 
 
 b. An enlarged picture of an insect, its real length is 0.5 mm and its length in the picture is 7.5 cm, find the scale drawing.
    The length in the drawing = 
-   $$ 7.5 \, cm = 7.5 \times 10 \, mm = 75 \, mm $$
-   $$ Ratio = \frac{75}{0.5} = \frac{75 \times 10}{0.5 \times 10} = \frac{750}{5} = \frac{750 \div 5}{5 \div 5} = \frac{150}{1} $$
+  $7.5 \, cm = 7.5 \times 10 \, mm = 75 \, mm$  
+  $Ratio = \frac{75}{0.5} = \frac{75 \times 10}{0.5 \times 10} = \frac{750}{5} = \frac{750 \div 5}{5 \div 5} = \frac{150}{1}$
    
    That means every 150 mm in the drawing = 1 mm in the real **150:1**
 
@@ -39,9 +42,11 @@ if the scale drawing in the map is 1 : 500,000 and the distance between two citi
 
 **Solution**  
 
-$$ The \, scale \, drawing = \frac{The \, distance \, on \, the \, map}{the \, real \, distance} $$  
-$$ \frac{1}{500,000} = \frac{3 \, cm}{The \ , real \, distance} $$  
-$$ The\,real\,distance = \frac{3\,cm \times 500,000}{1} = 1,500,000\,cm = \frac{1,500,000}{100,000} = 15 \, km $$  
+$The \, scale \, drawing = \frac{The \, distance \, on \, the \, map}{the \, real \, distance}$  
+<br>
+$\frac{1}{500,000} = \frac{3 \, cm}{The \ , real \, distance}$  
+<br>
+$The\,real\,distance = \frac{3\,cm \times 500,000}{1} = 1,500,000\,cm = \frac{1,500,000}{100,000} = 15 \, km$  
 
 
 ### Example 3  
@@ -50,11 +55,11 @@ if the distanc between two cities is 24 km, then find the distance in **cm** bet
 
 **Solution**  
 
-$$ The \, scale \, drawing = \frac{The \, distance \, on \, the \, map}{the \, real \, distance} $$  
+$The \, scale \, drawing = \frac{The \, distance \, on \, the \, map}{the \, real \, distance}$  
 
-$$ \frac{1}{400,000} = \frac{The \, distance \, on \, the \, map}{24 \times 100,000 \, cm} $$
+$\frac{1}{400,000} = \frac{The \, distance \, on \, the \, map}{24 \times 100,000 \, cm}$
 
-$$ The \, distance \, on \, the \, map = \frac{24 \times 100,000 \times 1}{400,000} = 6 \, cm $$  
+$The \, distance \, on \, the \, map = \frac{24 \times 100,000 \times 1}{400,000} = 6 \, cm$  
 
 **Note**  
 The scale drawing on map can be expressed as follow  
@@ -156,13 +161,14 @@ use the ruler to measure the distance between Cairo and Alexandria on the map, a
 **Solution**  
 
 the distance on the map = 4 cm  
-$$ \frac{1\,cm}{55\,km} = \frac{4\,cm}{X} $$
-$$ X = \frac{4 \times 55}{1} = 220 \, km $$
+$\frac{1\,cm}{55\,km} = \frac{4\,cm}{X}$  
+
+$X = \frac{4 \times 55}{1} = 220 \, km$
 
 
 ### Example 5  
 
-the figure represent a model of square room wuth a side length of 4 cm, where every i cm in the model represent 1 1/2 in reality.
+the figure represent a model of square room wuth a side length of 4 cm, where every i cm in the model represent $1 \frac{1}{2}$ in reality.
 calculate the real area of the room.  
 
 
@@ -170,4 +176,9 @@ calculate the real area of the room.
 
 **Solution**
 
-This is an inline fraction: $ \frac{1}{2} $
+The drawing scale = $\frac{The \,model\,length}{The\,real\,length}$  
+
+$\frac{1 \, cm}{1 \frac{1}{2}\,m} = \frac{4\,cm}{The\, real\,side\, length}$  
+
+The real side length = $\frac{4 \times 1 \frac{1}{2}}{1} = 6\, m$  
+
