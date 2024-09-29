@@ -160,3 +160,14 @@ $$ \frac{1\,cm}{55\,km} = \frac{4\,cm}{X} $$
 $$ X = \frac{4 \times 55}{1} = 220 \, km $$
 
 
+### Example 5  
+
+the figure represent a model of square room wuth a side length of 4 cm, where every i cm in the model represent 1 1/2 in reality.
+calculate the real area of the room.  
+
+
+![Room Layout](/assets/room.png)  
+
+**Solution**
+
+This is an inline fraction: $ \frac{1}{2} $
