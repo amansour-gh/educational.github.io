@@ -8,6 +8,12 @@ theme:
   features:
     - navigation.sections  # This enables sectioned navigation
 
+  palette:
+    primary: orange
+    accent: green
+
+
+
 nav:
   - Home: index.md
   - Math:
@@ -20,7 +26,17 @@ nav:
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+
 
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+

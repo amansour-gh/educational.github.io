@@ -186,3 +186,5 @@ The real side length = $\frac{4 \times 1 \frac{1}{2}}{1} = 6\, m$
 
 
 [def]: /docs/assets/room.png
+
+
