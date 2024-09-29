@@ -181,7 +181,9 @@ The drawing scale = $\frac{The \,model\,length}{The\,real\,length}$
 
 $\frac{1 \, cm}{1 \frac{1}{2}\,m} = \frac{4\,cm}{The\, real\,side\, length}$  
 
-The real side length = $\frac{4 \times 1 \frac{1}{2}}{1} = 6\, m$  
+The real side length = $\frac{4 \times 1 \frac{1}{2}}{1} = 6\, m$ 
+
+The room area = $6 \times 4 = 24 m^2$
 
 
 
