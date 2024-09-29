@@ -106,48 +106,38 @@ ___
 
 ### Prperty of Cross Multiplication
 if two ratios are equal, you will find that: Product of <span style="color:red"> Extremes</span> <span style="color:green"> = </span> Product of <span style="color:blue"> Means </span>
-> **if** $$\frac{a}{b}=\frac{c}{d}$$ **then:** a × d = b × c
+> **if** $\frac{a}{b}=\frac{c}{d}$ **then:** a × d = b × c
 #### Example 1
-$$\frac{3}{4}=\frac{6}{8}$$ **then:** 3 × 8 = 4 × 6 = 24
+$\frac{3}{4}=\frac{6}{8}$ **then:** 3 × 8 = 4 × 6 = 24
 #### Example 2
 Determine which of the following pairs of ratios represents a proportion
 
-1. 
-$$
-\frac{3}{8}, \frac{6}{10}
-$$
-2. 
-$$
-\frac{8}{10}, \frac{12}{15}
-$$
-##### Solution
-`if the product of the extremes equals the products of means, then this pairs of ratios represent a proportional`  
-1. $$\frac{3}{8}, \frac{6}{10}$$
-3 × 10 = 30 <span style="color:red"> Extremes</span>  
+1. $\frac{3}{8}, \frac{6}{10}$  
+   `if the product of the extremes equals the products of means, then this pairs of ratios represent a proportional`  
+    $\frac{3}{8}, \frac{6}{10}$  
 
-6 × 8 = 48 <span style="color:green"> Means</span>  
+   3 × 10 = 30 <span style="color:red"> Extremes</span>  
 
-product of <span style="color:red"> Extremes </span><span style="color:blue"> ≠ </span> product of <span style="color:green"> Means</span>  
-**these ratio do not represent a proportion**  
+   6 × 8 = 48 <span style="color:green"> Means</span>  
 
-2. $$\frac{8}{10}, \frac{12}{15}$$  
+2. $\frac{8}{10}, \frac{12}{15}$  
+   product of <span style="color:red"> Extremes </span><span style="color:blue"> ≠ </span> product of <span style="color:green"> Means</span>  
+   
+   **these ratio do not represent a proportion**  
 
-8 × 15 = 120  
+   8 × 15 = 120  
+   12 × 10 = 120  
 
-12 × 10 = 120  
+   **these ratios represent a proportion**  
 
-
-**these ratios represent a proportion**  
 #### Example 3  
 solve each of the following proportion  
-1.  
-$$
-\frac{4}{12} = \frac{20}{X}
-$$  
-##### Solution  
+1. $\frac{4}{12} = \frac{20}{X}$  
+
+
 4 × X = 20 × 12  
 4 × X = 240  
-$$X = \frac{240}{4} = 60 $$  
+$X = \frac{240}{4} = 60$  
 ---  
 ### Graphical Representation of proportion  
 - if the plotted point lie on a straight line passing through the origin, then the relationship represents a proportion
