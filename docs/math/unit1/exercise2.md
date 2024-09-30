@@ -3,7 +3,10 @@
 
 
 # Unit One : Numbers and operations on them
+
 ## Lesson Two : Applications of Ratio and Proportion (First) Scale Drawing  
+
+### Exercise
 
 1.  Complete the following:
     1.  The scale drawing =     <span style="color:green"> $\frac{The \, length \, in \, the \, drawing}{the \, real \, length}$   </span>  
@@ -33,5 +36,76 @@
     <br>
     Ahmed Hight in picture = $\frac{160}{4} = \frac{40}{1} = 40\,cm$  </span>  
 
-6.  
+6.  $\frac{1}{100} = \frac{X}{8\,m}$  
+
+    $X=\frac{8}{100} = \frac{2}{25} = 0.08 \,m = 8\, cm$
+
+7.  $\frac{1}{300,000} = \frac{14\,cm}{X}$
+    
+    $X=\frac{14 \times 30,000}{1} = 4,200,000\,cm = \frac{4,200.000}{100,000} = 42\,km$
+
+8.  $\frac{1}{4,000,000} = \frac{X}{350\,km}$
+    
+    $X=\frac{350}{4,000,000} = \frac{350 \times 100.000}{4.000,000} = 8.75\,cm$
+
+9.  $x=\frac{10\,cm}{120\,km} = \frac{1}{12}$ 
+
+10. $\frac{1}{5} = \frac{6.8\,cm}{X}$
+    
+    $X=\frac{6.8\times 5}{1} = 34\,km$
+
+11. Perimeter = 240 m 
+    
+    Side length = $\frac{240}{4} = 60\,m$
+    
+    $\frac{1}{200} = \frac{x}{60}$
+
+    $X=\frac{60\times 100}{200} = 30\,cm$
+
+12. Distance in the map = 5 cm 
+    
+    $\frac{1}{50} = \frac{5}{X}$
+
+    $X=\frac{5\times50}{1} = 250\,km$
+
+13. $\frac{1}{4} = \frac{X}{16}$
+    
+    $X=\frac{16}{4} = 4\,cm$
+
+14. $\frac{1}{50}=\frac{X}{12}$
+    
+    $X=\frac{12}{50\times100}=24\,cm$
+
+15. The room model Area = $3\times2.5=7.5\,cm$
+    
+    $\frac{1}{1.2}=\frac{7.5}{X}$
+
+    $X=7.5\times1.2=9\,m^2$
+
+16. $\frac{8}{24}=\frac{5+X+4}{36}$
+
+    $X+9 = \frac{36\times8}{24} = 12$
+
+    $X=12-9=3\,cm$
+
+17. $\frac{1}{40,000}=\frac{10}{X}$
+    
+    $X=10\times40,000=\frac{400,000}{100000}=4\,km$
+
+    $\frac{1}{100,000}=\frac{Y}{4}$
+
+    $Y=\frac{4\times100,000}{100,000}=4\,cm$
+
+### Multiple Choice
+
+1.  a
+2.  b
+3.  a
+4.  b
+5.  b
+6.  d
+7.  XX
+8.  c
+9.  b
+10. b
 
