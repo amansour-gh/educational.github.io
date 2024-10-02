@@ -23,6 +23,7 @@ nav:
       - Lesson 2 Scale Drwaing: math/unit1/lesson2.md
       - Exercise 2 Scale Drwaing: math/unit1/exercise2.md
       - Lesson 3 Proportional Division: math/unit1/lesson3.md
+      - Exercise 3 Proportional Division: math/unit1/exercise3.md
 
 markdown_extensions:
   - pymdownx.arithmatex:
